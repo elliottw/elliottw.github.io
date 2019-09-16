@@ -16,10 +16,10 @@ Designed and iterated the internal process used to evaluate 100s of product conc
 *Design Thinking Workshop*  
 Designed Rhetoric based curriculum as a means to create a communal language and understanding for design company-wide.
 
-*Launched News for Sales Team Application*
+*Launched News for Sales Team Application*  
 Moved from contextual inquires and semi-structured user interviews to managing a small engineering team and testing prototypes in the field. Cleared all regulatory hurdles to launch internally within PNC for the healthcare vertical.
 
-*SBA-backed Loan Marketplace for Consumers*
+*SBA-backed Loan Marketplace for Consumers*  
 Worked with industry experts, PNC Financial Institutions Group and Underwriting teams to develop a product to offer whole loans to consumers. Orchestrated dozens of stakeholders across multiple internal LOBs for PNC CCO, CIO, and CTO approval.
 
 ### Carnegie Mellon
@@ -27,9 +27,13 @@ Worked with industry experts, PNC Financial Institutions Group and Underwriting 
 Human Computer Interaction Master’s Program
 Simultaneously instructed several student groups working across multiple industries with paying clients while guiding them through UCD research and design processes such as Contextual Inquiry, Cognitive Walkthrough, Ideation, and Rapid Prototyping.
 
+### Sparket
+*CEO PGH PA USA, 2017*  
+Started a company to help gid rid of all the old electronics from people's homes. Raised nearly 100,000 in angel funding. Lauched an SMS based prototype, grew from zero revenue to 12,000MRR.
+[video](https://vimeo.com/242935771)
 
 ### LegalSifter  
-*Founder, CEO, Designer PGH PA USA, 2013 - 2016*  
+*Founder, CEO, Designer PGH PA USA, 2013 - 2017*  
 Founded LegalSifter to tackle the problems of small businesses’ inability to [access affordable legal](https://techcrunch.com/2014/08/07/legalsifter-helps-designers-and-developers-read-their-contracts/) help. Raised $2 Million in venture funding to use a statistical natural language processing (AI) approach to legal aid.
 
 *Founder*  
@@ -90,4 +94,4 @@ How business and design have shifted and changed to accommodate the cultural shi
 
 *World IA Day Pittsburgh 2018*  
 Designing for imperfect computer generated data.  
-[video](https://slideslive.com/38905982/machinelearninggenerated-data**
+[video](https://slideslive.com/38905982/machinelearninggenerated-data)
