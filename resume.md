@@ -29,7 +29,7 @@ Simultaneously instructed several student groups working across multiple industr
 
 ### Sparket
 *CEO PGH PA USA, 2017*  
-Started a company to help gid rid of all the old electronics from people's homes. Raised nearly 100,000 in angel funding. Lauched an SMS based prototype, grew from zero revenue to 12,000MRR.
+Started a company to help gid rid of all the old electronics from people's homes. Raised nearly 100,000 in angel funding. Lauched an SMS based prototype, grew from zero revenue to 12,000MRR.  
 [video](https://vimeo.com/242935771)
 
 ### LegalSifter  
