@@ -17,7 +17,7 @@ title: Elliott Williams
 description: A bold typographic theme inspired by Swiss design.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_repo: jekyll # the GitHub repo name for your project
+github_repo: elliottw.github.io # the GitHub repo name for your project
 github_username: elliottw
 
 # Optional social link, you can choose from the following options:
@@ -25,9 +25,15 @@ github_username: elliottw
 social_link: twitter
 social_username: elliottwilliams
 
+social_link: instagram
+social_username: elliottw
+
+
+social_link: twitter
+social_username: elliottwilliams
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
-theme_color: black
+theme_color: white
 
 # Build settings
 markdown: kramdown

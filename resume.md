@@ -4,18 +4,97 @@ title: Resume
 permalink: /resume/
 ---
 
-Swiss is a bold Jekyll theme inspired by Swiss design and the works of Massimo Vignelli. This theme lends itself well to sites heavy on written content.
+## Experience
+   
+**PNC Bank - Numo**  
+Venture Designer 2018, Design Practice Lead 2019 - Present  
+Numo is a bank funded fintech incubator. I’m currently growing the group’s first design department while simultaneously developing financial product ideas and the process to evaluate products. Quarterly meeting with C-Suite of PNC (6th largest bank nationally) for funding approval for products.
 
-### Features:
-* Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
-* Designed for blogs and sites heavy on written content, with bold typography styles, homepage summaries, and previous/next snippets.
-* Supports a wide range of HTML elements and markdown.
-* Flexible styles that can be reused for customization without adding additional CSS.
-* Simple styling for code snippets (if you want something with syntax highlighting, checkout ....)
-* Dynamically generated navigation links. See docs below for adding pages with specific post category for-loops.
+*Venture Process*  
+Designed and iterated the internal process used to evaluate 100s of product concepts moving from back of napkin ideas to multi-million dollar board approvals.
 
-## Themes
+*Design Thinking Workshop*  
+Designed Rhetoric based curriculum as a means to create a communal language and understanding for design company-wide.
 
-## Browser Support
+*Launched News for Sales Team Application*
+Moved from contextual inquires and semi-structured user interviews to managing a small engineering team and testing prototypes in the field. Cleared all regulatory hurdles to launch internally within PNC for the healthcare vertical.
 
-## Installation
+*SBA-backed Loan Marketplace for Consumers*
+Worked with industry experts, PNC Financial Institutions Group and Underwriting teams to develop a product to offer whole loans to consumers. Orchestrated dozens of stakeholders across multiple internal LOBs for PNC CCO, CIO, and CTO approval.
+
+**Carnegie Mellon**  
+Adjunct Instructor PGA PA USA, 2019 - Present
+
+Human Computer Interaction Master’s Program
+Simultaneously instructed several student groups working across multiple industries with paying clients while guiding them through UCD research and design processes such as Contextual Inquiry, Cognitive Walkthrough, Ideation, and Rapid Prototyping.
+
+
+**LegalSifter**  
+Founder, CEO, Designer PGH PA USA, 2013 - 2016
+
+Founded LegalSifter to tackle the problems of small businesses’ inability to [access affordable legal](https://techcrunch.com/2014/08/07/legalsifter-helps-designers-and-developers-read-their-contracts/) help. Raised $2 Million in venture funding to use a statistical natural language processing (AI) approach to legal aid.
+
+*Founder*  
+Launched an MVP that received over 4,000 contracts organically on day one. Posted on Hacker News with a 25% sign-up rate for the first day on the front page.
+
+*CEO*  
+Raised over 2MM in institutional investments (to date LS has raised over 6MM). Effectively grew the company from 1 to 15 employees. I successfully pivoted the company from consumer to B2B and secured our first enterprise client, BNYMellon.
+
+*Designer*  
+Semi-structured interviews with 50+ potential users, longitudinal studies, and contextual inquiries guided the prototyping of the first interface. Prototyped a complex app that negotiated the complexity of AI generated imperfect data with novice users. Worked with engineering team to implement designs.
+
+**[Catapult PGH](http://catapultpgh.org)**  
+Founder, Service Designer PGH PA USA, 2010 - 2016  
+
+[Started](/2013/01/09/starting-a-coworking-space-doesnt-have-to-be-hard.html) the first coworking space in Pittsburgh. Received grants, sited in Ph.D. thesis’ as the first donation based coworking space. Under my management, Catapult grew to nearly 100 members, and a 25% operating margin.
+
+**Pink Design**  
+Founder, Service Designer PGH PA USA, 2008 - 2010  
+
+Cofounded one of the first Service Design consultancies in the country. Worked with large corporate clients such as GSK and McDonald’s and applied modern Service Design methodologies such as Service Blueprints, Personas, and Story-boarding.
+
+***
+## Education
+
+**Carnegie Mellon**  
+MS Human Computer Interaction 2007-2008  
+Carried 75% over required course load for the duration of the program finishing with a 4.0 GPA. Lead Designer for Capstone project.
+
+**MIT**  
+BS Brain and Cognitive Science 2000-2004  
+Additional studies in computer science, fine arts, and architecture. Student Leader managing 50+ students for a semester long art installation in the main entry. Executive Board Member of the Black Student Union. Organized dorm student cooking group of 30 students. Computer Science internship with Texas Instruments. Taught high school computer science.
+
+***
+## Service & Fun
+
+**Sprout Fund**
+Decision Committee Member 2010-2015
+
+Worked with a team to determine community projects to be funded. Evaluated projects based on probability of success along with alignment with Sprout vision and values. Distributed ~1MM over my tenure.
+
+**Coffee Disloyalty Card**  
+Designer 2013  
+
+Organized 8 warring coffee shops to increase positivity in the local coffee industry. Created a physical rewards card where customers received a free cup of coffee for visiting multiple non-affiliated coffee shops.
+
+**Philadelphia Public Schools**
+2006
+
+Taught high school Chemistry, Biology, and Health to over 200 students from 9th to 12th grade. Worked in various schools from arts focused to the Microsoft School of the Future to a school associated with large numbers of homicide and drug related crimes. Pursued Masters in Education at the University of Pennsylvania concurrently.
+
+**Peace Corps**
+Cape Verde, 2005  
+Immersive language training in Cape Verdian Creole and Portuguese. Taught basic computer skills to people of Cape Verde.
+
+***
+## Talks
+
+CMU HCI 2019  
+Service Design graduate class guest lecture on coworking from the lens of design.
+
+IXDA Pittsburgh 2018  
+How business and design have shifted and changed to accommodate the cultural shifts of the last 100 years.
+
+World IA Day Pittsburgh 2018  
+Designing for imperfect computer generated data.  
+[video](https://slideslive.com/38905982/machinelearninggenerated-data)
