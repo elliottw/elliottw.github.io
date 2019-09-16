@@ -19,7 +19,7 @@ code {
 .prose {
 
   a {
-    text-decoration: underline dotted;
+    text-decoration: underline;
 
     &:hover {
       text-decoration: underline;
@@ -28,7 +28,7 @@ code {
 
   p, ol, ul {
     font-size: $prose-font-size;
-    margin-bottom: 1em;
+    margin-bottom: 2em;
     width: 100%;
 
     @media (min-width: $breakpoint-lg) {
@@ -44,6 +44,7 @@ code {
   li {
     margin-bottom: 0.5em;
 
+    margin: 0 0 0 -39px;
     ul li, ol li {
       margin-bottom: 0;
     }

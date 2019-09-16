@@ -34,7 +34,7 @@ Our team shadowed Barry and Deborah. His surgery was successful and he spent the
 
 Our team conducted a broad spectrum of quantitative and qualitative research over four weeks: patient satisfaction surveys, check-in desk satisfaction surveys, staff surveys, mapping information flows, technology audits, unstructured interviews with patients, families, and staff, patient and staff shadowing, patient diaries, photo documentation, and more during the generative design phase like co-creation workshops. 
 
-These findings were mapped onto stakeholder charts, journey maps, blueprints, OMI (observation-mean- ing-implication) charts, data graphs, and narratives that captured patterns. 
+These findings were mapped onto stakeholder charts, journey maps, blueprints, OMI (observation-mean- ing-implication** charts, data graphs, and narratives that captured patterns. 
 
 Had our research at UPMC been solely analytical, only a partial picture would have emerged — patients would have been seen as broadly satisfied. Instead, by employing and synthesizing a variety of methods, deeper organizational issues were exposed: 
 
@@ -43,16 +43,27 @@ Had our research at UPMC been solely analytical, only a partial picture would ha
 2. Patients and staff alike lacked an understanding of the breath of services offered by the facility: referrals were made to patients outside of South Hills without realizing their needs could be met down the hall. 
 
 3. A siloed organization with few staff members at South Hills understanding of corporate’s direction. 
+
 4. At South Hills, a clean, bright space but an atmo- sphere that evoked a dead mall. 
+
 5. Navigation and wayfinding challenges, posing significant issues for first time and elderly visitors. 
+
 6. The centrally-located cafe and sitting area was closed most of the time and the space felt too clinical for what it was trying to be. 
+
 7. Long periods of boredom for family members; little for them to engage with in waiting areas and a dreary cafe with sporadic hours. 
+
 8. Information flow between offices was hindered by old tools and technology. 
+
 9. Patients were bounced around: missing or erronous information and bad wayfinding led them to the wrong offices. 
+
 10. The facility’s digital footprint lacked a clear listing of services offered, hours, and contact information. No brand cohesion existed across UPMC digital properties. 
+
 11. Finding UPMC South Hills proved challenging for patients and families. 
+
 12. UPMC South Hills had little name recognition in Bethel Park or surrounding towns. Our survey showed that the majority of respondents did not know the facility existed or that outpatient surgery was an option in their community. 
+
 13. A plurality of respondents confused UPMC South Hills for St. Clair Hospital, a competitor across the street. 
+
 
 ![text](/assets/images/upmc9.png)
 
