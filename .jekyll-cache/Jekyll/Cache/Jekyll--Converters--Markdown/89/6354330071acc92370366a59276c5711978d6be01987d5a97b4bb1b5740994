@@ -1,0 +1,19 @@
+I"j<p>in the command line:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ heroku domains:add www.titlecase.org
+$ heroku domains:add titlecase.org
+</code></pre></div></div>
+
+<p>and in gandi:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@ 10800 IN A 174.129.212.2
+@ 10800 IN A 75.101.145.87
+@ 10800 IN A 75.101.163.44
+www 10800 IN CNAME titlecase.herokuapp.com.
+</code></pre></div></div>
+
+<p>notes:</p>
+
+<p>Using Heroku’s interface to change things, breaks things. Use the CLI. Be patient for changes to spread over the internet.</p>
+
+:ET

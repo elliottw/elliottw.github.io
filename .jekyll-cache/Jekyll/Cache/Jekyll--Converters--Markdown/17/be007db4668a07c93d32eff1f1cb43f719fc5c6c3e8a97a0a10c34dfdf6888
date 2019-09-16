@@ -1,0 +1,12 @@
+I"<p>Continuing in my series of posts incase anything I’m doing breaks.</p>
+
+<p>Fork <a href="https://github.com/elliottw/Noir-blog">this on github</a>. I forked it from someone else who put a procfile into the folder so it would work OTB on heroku.</p>
+
+<p>Then the usual from <a href="https://devcenter.heroku.com/articles/clojure/">here</a>:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>heroku create
+git push heroku master
+heroku ps:scale web=1
+</code></pre></div></div>
+
+:ET
