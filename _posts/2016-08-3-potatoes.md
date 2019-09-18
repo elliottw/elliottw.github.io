@@ -6,8 +6,7 @@ categories: work
 ---
 *How can design thinking and methods help organizations better understand their challenges and transform from the ground up?*
 
-**Themes:** Patient Experience, Service and Organization Design, Design Research, Vision and Planning 
-
+**Themes:** Patient Experience, Service and Organization Design, Design Research, Vision and Planning  
 **Goals:** Our team was engaged to examine patient experience within an out- patient facility and explore opportunities for the facility to become a “model for the future of healthcare delivery.” Research informed visual models, and models aided design concepts that sought to alleviate pain-points in the experience for patients and families. This set a foundation for organizational transformation. 
 
 ***
@@ -30,6 +29,7 @@ We met Barry Hume and his wife Deborah. Barry was having knee replacement surger
 Our team shadowed Barry and Deborah. His surgery was successful and he spent the rest of the afternoon in recovery before being discharged at 5 PM. Both said they were pleased with the experience. This was echoed by many patients and family members: the experience is great. The staff makes patients feel as comfortable as possible; they check in on them in the days that follow; they express genuine care and concern for everyone’s wellbeing. These findings were also reflective in the internal surveys that our team inherited which showed an overwhelming levels of satisfaction. Three days later, the Humes brought a birthday cake for the nurse who took care of them. 
 
 ![service blueprint](/assets/images/upmc1.png)
+
 ## Research Insights and Problem Framing
 
 Our team conducted a broad spectrum of quantitative and qualitative research over four weeks: patient satisfaction surveys, check-in desk satisfaction surveys, staff surveys, mapping information flows, technology audits, unstructured interviews with patients, families, and staff, patient and staff shadowing, patient diaries, photo documentation, and more during the generative design phase like co-creation workshops. 
@@ -39,29 +39,17 @@ These findings were mapped onto stakeholder charts, journey maps, blueprints, OM
 Had our research at UPMC been solely analytical, only a partial picture would have emerged — patients would have been seen as broadly satisfied. Instead, by employing and synthesizing a variety of methods, deeper organizational issues were exposed: 
 
 1. Siloed offices with few staff members knowing the breadth of offerings at UPMC South Hills. 
-
 2. Patients and staff alike lacked an understanding of the breath of services offered by the facility: referrals were made to patients outside of South Hills without realizing their needs could be met down the hall. 
-
 3. A siloed organization with few staff members at South Hills understanding of corporate’s direction. 
-
 4. At South Hills, a clean, bright space but an atmo- sphere that evoked a dead mall. 
-
 5. Navigation and wayfinding challenges, posing significant issues for first time and elderly visitors. 
-
 6. The centrally-located cafe and sitting area was closed most of the time and the space felt too clinical for what it was trying to be. 
-
 7. Long periods of boredom for family members; little for them to engage with in waiting areas and a dreary cafe with sporadic hours. 
-
 8. Information flow between offices was hindered by old tools and technology. 
-
 9. Patients were bounced around: missing or erronous information and bad wayfinding led them to the wrong offices. 
-
 10. The facility’s digital footprint lacked a clear listing of services offered, hours, and contact information. No brand cohesion existed across UPMC digital properties. 
-
 11. Finding UPMC South Hills proved challenging for patients and families. 
-
 12. UPMC South Hills had little name recognition in Bethel Park or surrounding towns. Our survey showed that the majority of respondents did not know the facility existed or that outpatient surgery was an option in their community. 
-
 13. A plurality of respondents confused UPMC South Hills for St. Clair Hospital, a competitor across the street. 
 
 
@@ -114,10 +102,7 @@ Design is a values-driven and action-oriented profes- sion. We sought to create 
 ## Summary of Process 
 
 1. Frame: A thorough review of existing research and initaitives; familiarization with connections and roles of business units; cross-stakeholder workshops defined the problem space. 
-
 2. Research: Extensive ethnographic research was turned into actionable models: blueprints, process maps, data graphs, narratives and more. 
-
 3. Ideate: We created new futures through collaborative design methods and turned those methods into concepts that could be tested and iterated upon. 
-
 4. Build: The vertical map was developed with articulated plans for actionable projects. We validated and roadmapped the projects. 
 

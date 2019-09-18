@@ -1,7 +1,7 @@
 ---
 layout: category-post
 title:  "Designing a Culture of Innovation"
-date:   2016-08-07
+date:   2018-09-07
 categories: work
 ---
 
