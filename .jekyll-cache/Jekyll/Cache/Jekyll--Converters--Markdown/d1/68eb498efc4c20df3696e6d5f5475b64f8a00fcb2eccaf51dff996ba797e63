@@ -1,10 +1,6 @@
----
-layout: category-post
-title:  "Scaling Up"
-date:   2008-08-3
-categories: work
-image_fullwidth: "/assets/images/upmc1.png"
----
+I"::<p> 
+<img bg="" src="/assets/images/upmc1.png" alt="drawing" width="2000" />
+ &lt;\p&gt; 
 *How can design thinking and methods help organizations better understand their challenges and transform from the ground up?*
 
 **Themes:** Patient Experience, Service and Organization Design, Design Research, Vision and Planning  
@@ -60,7 +56,7 @@ Had our research at UPMC been solely analytical, only a partial picture would ha
 
 Some of the issues we identified had fairly direct vectors between problem and solution. We developed low-fidelity concepts, estimated cost/benefit, and ran short experiments by changing the physical space: making a cozier cafe space, improvements in wayfin- ding, adding comforts to the waiting rooms, added calming music to ad hoc “breather spaces,” designed simpler forms, and more. 
 
->Understanding ‘healthcare of the future’ begins with understanding people just as much as it does technology and advancements in medicine. For us, it meant leaving South Hills and integrating with the community...
+&gt;Understanding ‘healthcare of the future’ begins with understanding people just as much as it does technology and advancements in medicine. For us, it meant leaving South Hills and integrating with the community...
 
 Steve Jobs and Henry Ford are both credited with saying that users don’t know what they want — that they can only talk about iterative changes, not transfor- mative ones. While it’s true that future visioning does not come naturally for most people, it becomes much easier when participants are prompted with artifacts to generate ideas and offer feedback. 
 
@@ -83,7 +79,7 @@ We employed a remapping technique to understand the values of individuals and co
 
 four juicers, one of the four magazines, one of the four vacation spots, one of the four cars, “which one would it be and why?” The choices they made were irrelevant to us; what mattered was their justification: “I like the green juicer because it’s personal. It’s one-at-a-time. With the industrial juicer, I would feel like just another orange.” 
 
->I like the green juicer because it’s personal. It’s one-at-a-time. With the industrial juicer, I would feel like just another orange.
+&gt;I like the green juicer because it’s personal. It’s one-at-a-time. With the industrial juicer, I would feel like just another orange.
 
 Between juicers, vacations, and media, we collected hundreds of data points that spoke to desires of comfort, accessibility, brightness, efficiency, happi- ness, peace, relaxation, individuality, immediacy, and simplicity. We ran a linguistic analysis and the results helped us construct a vertical map defined by the community itself. 
 
@@ -107,3 +103,5 @@ Design is a values-driven and action-oriented profes- sion. We sought to create 
 3. Ideate: We created new futures through collaborative design methods and turned those methods into concepts that could be tested and iterated upon. 
 4. Build: The vertical map was developed with articulated plans for actionable projects. We validated and roadmapped the projects. 
 
+</p>
+:ET
