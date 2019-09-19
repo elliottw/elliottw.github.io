@@ -5,6 +5,7 @@ date:   2018-09-07
 categories: work
 ---
 
+*How strategy, culture, and design can create new business lines in a well established company.*
 
 **Themes:** Process and Planning, Strategy, Technology, Entrepreneurship
 
