@@ -1368,6 +1368,7 @@ Hero
 	display: table-cell;
 	vertical-align: middle;
 	height: 100%;
+  color: white;
 }
 
 /* Hero caption sizes*/
