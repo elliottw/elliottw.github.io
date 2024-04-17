@@ -14,9 +14,13 @@ understanding the lifecycle of an SBA loan
 ![](/ox-hugo/20240407T021542--offset-lifecycle-of-sba-loan__image.png)
 ![](/ox-hugo/20240407T021542--offset-lifecycle-zoom__image.png)
 
-Gaining buy-in inside the
-![](/ox-hugo/20240407T021542--offset-key__image.png)
-![](/ox-hugo/20240407T021542--offset-buy-in__image.png)
+Gaining buy-in inside the org
+
+![](/ox-hugo/20240407T021542--offset-org-key__image.png)
+![](/ox-hugo/20240407T021542--offset-org-buy-in__image.png)
+
+
+## Screenshots {#screenshots}
 
 {{< figure src="/ox-hugo/20240407T021050--offset-loan-list__image.png" >}}
 
