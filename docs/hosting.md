@@ -117,7 +117,7 @@ Here's how to add a custom domain to your GitHub pages deployment.
 See the [GitHub documentation](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain) for more detail about how to setup your own custom domain with GitHub Pages.
 
 > [!question] Why aren't my changes showing up?
-> There could be many different reasons why your changes aren't showing up but the most likely reason is that you forgot to push your changes to GitHub.
+> There could be many different reasons why your changes aren't showing up but the most likely reason is that you ot to push your changes to GitHub.
 >
 > Make sure you save your changes to Git and sync it to GitHub by doing `npx quartz sync`. This will also make sure to pull any updates you may have made from other devices so you have them locally.
 

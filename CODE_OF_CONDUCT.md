@@ -53,13 +53,13 @@ Unacceptable behavior from any community member, including sponsors and those wi
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
+If a community member engages in unacceptable behavior, the communityanizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 
 ## 7. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. j.zhao2k19@gmail.com.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a communityanizer as soon as possible. j.zhao2k19@gmail.com.
 
-Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
+Additionally, communityanizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events,anizers will also provide escorts as desired by the person experiencing distress.
 
 ## 8. Addressing Grievances
 
@@ -77,7 +77,7 @@ j.zhao2k19@gmail.com
 
 ## 11. License and attribution
 
-The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
+The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons/licenses/by-sa/3.0/).
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
@@ -87,4 +87,4 @@ _Revision 2.2. Posted 4 February 2016._
 
 _Revision 2.1. Posted 23 June 2014._
 
-_Revision 2.0, adopted by the [Stumptown Syndicate](http://stumptownsyndicate.org) board on 10 January 2013. Posted 17 March 2013._
+_Revision 2.0, adopted by the [Stumptown Syndicate](http://stumptownsyndicate) board on 10 January 2013. Posted 17 March 2013._

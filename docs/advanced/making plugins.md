@@ -173,7 +173,7 @@ export const TextTransforms: QuartzTransformerPlugin = () => {
 }
 ```
 
-All transformer plugins can be found under `quartz/plugins/transformers`. If you decide to write your own transformer plugin, don't forget to re-export it under `quartz/plugins/transformers/index.ts`
+All transformer plugins can be found under `quartz/plugins/transformers`. If you decide to write your own transformer plugin, don't et to re-export it under `quartz/plugins/transformers/index.ts`
 
 A parting word: transformer plugins are quite complex so don't worry if you don't get them right away. Take a look at the built in transformers and see how they operate over content to get a better sense for how to accomplish what you are trying to do.
 
@@ -227,7 +227,7 @@ export type QuartzEmitterPluginInstance = {
 
 An emitter plugin must define a `name` field, an `emit` function, and a `getQuartzComponents` function. `emit` is responsible for looking at all the parsed and filtered content and then appropriately creating files and returning a list of paths to files the plugin created.
 
-Creating new files can be done via regular Node [fs module](https://nodejs.org/api/fs.html) (i.e. `fs.cp` or `fs.writeFile`) or via the `write` function in `quartz/plugins/emitters/helpers.ts` if you are creating files that contain text. `write` has the following signature:
+Creating new files can be done via regular Node [fs module](https://nodejs/api/fs.html) (i.e. `fs.cp` or `fs.writeFile`) or via the `write` function in `quartz/plugins/emitters/helpers.ts` if you are creating files that contain text. `write` has the following signature:
 
 ```ts
 export type WriteOptions = (data: {

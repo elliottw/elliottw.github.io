@@ -10,9 +10,9 @@ title: Philosophy of Quartz
 
 The problem with the file cabinet is that it focuses on efficiency of access and interoperability rather than generativity and creativity. Thinking is not linear, nor is it hierarchical. In fact, not many things are linear or hierarchical at all. Then why is it that most tools and thinking strategies assume a nice chronological or hierarchical order for my thought processes?
 
-The ideal tool for thought for me would embrace the messiness of my mind, and organically help insights emerge from chaos instead of forcing an artificial order. A rhizomatic, not arboresecent, form of note taking.
+The ideal tool for thought for me would embrace the messiness of my mind, andanically help insights emerge from chaos instead of forcing an artificial order. A rhizomatic, not arboresecent, form of note taking.
 
-My goal with a digital garden is not purely as an organizing system and information store (though it works nicely for that). I want my digital garden to be a playground for new ways ideas can connect together. As a result, existing formal organizing systems like Zettelkasten or the hierarchical folder structures of Notion don’t work well for me. There is way too much upfront friction that by the time I’ve thought about how to organize my thought into folders categories, I’ve lost it.
+My goal with a digital garden is not purely as ananizing system and information store (though it works nicely for that). I want my digital garden to be a playground for new ways ideas can connect together. As a result, existing formalanizing systems like Zettelkasten or the hierarchical folder structures of Notion don’t work well for me. There is way too much upfront friction that by the time I’ve thought about how toanize my thought into folders categories, I’ve lost it.
 
 Quartz embraces the inherent rhizomatic and web-like nature of our thinking and tries to encourage note-taking in a similar form.
 
