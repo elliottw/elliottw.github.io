@@ -20,6 +20,8 @@ export default ((opts?: Options) => {
           <a href="https://protesilaos.com/emacs/denote">Denote, </a>
           <a href="https://quartz.jzhao.xyz/">and Quartz v{version}</a> © {year}
         </p>
+<script data-goatcounter="https://elliottio.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>

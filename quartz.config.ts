@@ -12,8 +12,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
-    },
+         provider: 'goatcounter', websiteId: 'elliottio' 
+        },
     locale: "en-US",
     baseUrl: "elliott.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
