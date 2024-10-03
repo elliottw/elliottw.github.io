@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katex on Hugo-Tufte Theme Example Site</title>
+    <link>http://localhost:1313/categories/katex/</link>
+    <description>Recent content in Katex on Hugo-Tufte Theme Example Site</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 16 Apr 2023 16:03:45 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/katex/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The big old test page</title>
+      <link>http://localhost:1313/posts/tufte-features/</link>
+      <pubDate>Sun, 16 Apr 2023 16:03:45 +0100</pubDate>
+      <guid>http://localhost:1313/posts/tufte-features/</guid>
+      <description>New features # Emoji # Powered by Noto Emoji font. We really like cats. Yes, they are fluffy and happy. 🐈🐱 🪷🫶🤍😊💀🔥 Button # ✅ Open all notes ❎ Close all notes 🔄 Toggle all notes {{&amp;lt; button style=&amp;#34;primary&amp;#34; icon=&amp;#34;🔄&amp;#34; href=&amp;#34;javascript:javascript:(function(){function checkFrames(w) {try {var inputs = w.document.getElementsByTagName(&amp;#39;input&amp;#39;);for (var i=0;</description>
+    </item>
+    <item>
+      <title>More math</title>
+      <link>http://localhost:1313/posts/more-maths/</link>
+      <pubDate>Tue, 20 Jul 2021 13:56:01 -0800</pubDate>
+      <guid>http://localhost:1313/posts/more-maths/</guid>
+      <description>&lt;p&gt;A compilation of &lt;code&gt;$\LaTeX$&lt;/code&gt; formulas&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
