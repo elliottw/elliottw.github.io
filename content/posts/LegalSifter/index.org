@@ -3,7 +3,6 @@
 #+categories: Venture
 #+categories: B2B
 #+title: LegalSifter: From Consumer App to B2B
-+++
 
 
 After running a design firm for less than a year, there were several occasions when a project would come in and it didn’t make sense to hire a lawyer. We’d sign contracts with no legal review thinking we’d save a few thousand dollars. But buried deep in a multi-page dense contract, there would be an innocuous phrase.
