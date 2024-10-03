@@ -12,7 +12,7 @@ baseurl: "https://hugo-tufte.netlify.app/"
 title: "elliott.io"
 canonifyurls: true
 # Number of posts per page on the home page
-paginate: 5
+paginate: 20
 
 # Only modify the following if you know what you are doing
 markup:

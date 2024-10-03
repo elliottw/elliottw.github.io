@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "hugo-tufte.min.css",
-	"sourceRoot": "/Users/elliott/code/elliott-tufte",
+	"sourceRoot": "/Users/elliott/code/elliottw.github.io",
 	"sources": [
 		"assets/scss/hugo-tufte.scss",
 		"assets/scss/tufte.scss",
