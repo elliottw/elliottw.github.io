@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on elliott.io</title>
+    <link>http://localhost:1313/categories/articles/</link>
+    <description>Recent content in Articles on elliott.io</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 Feb 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Don&#39;t Care about Your New Framework</title>
+      <link>http://localhost:1313/posts/i-dont-care-about-your-new-framework/</link>
+      <pubDate>Wed, 09 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/i-dont-care-about-your-new-framework/</guid>
+      <description>At every design conference someone &amp;#34;invents&amp;#34; a new framework for looking at users. In more understandable terms, people continue to make up ways to divide someone&amp;#39;s life into little pieces. For some reason, they think their scissor cuts of work and play, digital and physical, or love and hate are better than others… I have no idea why.&#xA;Let&amp;#39;s Take a Look at a Few So you know what I&amp;#39;m talking about, here are some &amp;#34;ethnographic observation frameworks&amp;#34; I&amp;#39;ve collected over the years.</description>
+    </item>
+    <item>
+      <title>Richard Buchanan COINs and Design Keynote Speach</title>
+      <link>http://localhost:1313/posts/richard-buchanan-coins-and-design-keynote-speach/</link>
+      <pubDate>Fri, 24 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/richard-buchanan-coins-and-design-keynote-speach/</guid>
+      <description>Richard Buchanan was a professor at Carnegie Mellon&amp;#39;s Design School before leaving for the Weatherhead School of Management at Case Western. He&amp;#39;s a personal hero of mine, and one of the few people moving design into spaces that were previously owned by business and management. He recently gave a keynote talk at COINs and you should definitely check it out on livestream here.&#xA;The general gist of the talk informed the audience of the true nature of design, design thinking, and how it&amp;#39;s going to make it&amp;#39;s way into management.</description>
+    </item>
+    <item>
+      <title>The Shift from Modern to Post Modern in Design</title>
+      <link>http://localhost:1313/posts/the-shift-from-modern-to-post-modern-in-design/</link>
+      <pubDate>Wed, 20 May 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-shift-from-modern-to-post-modern-in-design/</guid>
+      <description>Design was about something. There were constraints of technology, constraints on production, limits on time and resources that could be devoted to projects which in turn would be products. Design disciplines, such as graphic and industrial, had heuristics–rules of thumb. Domain knowledge was acquired. Designers were masters of a trade. They were technical, efficient, and knowledgable. Disciplines also developed ethical standards which are still relevant today. For example, in graphic design, information should be presented in an honest manner, not used to deceive the reader.</description>
+    </item>
+    <item>
+      <title>The Rhetorical Chain</title>
+      <link>http://localhost:1313/posts/rhetorical-chain/</link>
+      <pubDate>Thu, 02 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/rhetorical-chain/</guid>
+      <description>Rhetorical Chain: a string of arguments that pass through and connect people and organizations&#xA;Design as Rhetoric A lot of people see design as the bastard child of rhetoric. If you think about it, it makes sense. The five &amp;#34;canons&amp;#34; of rhetoric, brought forth by Cicero or somebody, consists of:&#xA;Invention and Discover Arrangement Style Memory Delivery These phases all have corollaries in design. I won&amp;#39;t go into that, but it should be pretty obvious to most designers.</description>
+    </item>
+    <item>
+      <title>The Four Orders of Design</title>
+      <link>http://localhost:1313/posts/the-four-orders-of-design/</link>
+      <pubDate>Mon, 09 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-four-orders-of-design/</guid>
+      <description>With the surge of new concepts in design revolving around Design Management, Organizational Design, Systems Design, and the like, and the seemingly lost articulation of that domain set forth by Richard Buchanan, I thought this would be a good time to revisit the concept of Fourth Order Design, and lay out the orders and their origin in one coherent text.&#xA;Four Orders of Design Dick was the first to describe design disciplines in four domains of activity: symbolic and visual communication or graphic design, material or industrial design, activities and organized services or interaction and service design, and complex systems or organizational design.</description>
+    </item>
+  </channel>
+</rss>

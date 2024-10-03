@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Design on elliott.io</title>
+    <link>http://localhost:1313/categories/visual-design/</link>
+    <description>Recent content in Visual Design on elliott.io</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 22 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/visual-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design Methods Deck</title>
+      <link>http://localhost:1313/posts/design-deck/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/design-deck/</guid>
+      <description>Alex Cheek and I developed this card deck over the course of a decade. The cards represent our unique approach to consulting work in business, healthcare, tech, and more. Their roots trace to Aristotle, John Dewey, Richard McKeon, Richard Buchanan, Shelley Evenson, Christopher Alexander, Kenneth Burke, and others — classical models that we have updated for contemporary problems.&#xA;These methods represent the belief that thinking differently through design is something that anybody can participate in; that it’s not a mode of thinking reserved for those with formal design training.</description>
+    </item>
+    <item>
+      <title>Univers for 2020</title>
+      <link>http://localhost:1313/posts/univers-ww/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/univers-ww/</guid>
+      <description>⊕ by Alexander R. Wilcox Cheek and Elliott Williams A 2020 interpretation of Adrian Frutiger’s Univers based on the open-source Univers U001. To meet the needs of modern internet usage, Wilcox and Williams (WWTF) developed an extensive set of discretionary ligatures for @ and hashtag symbols. Univers WW also updates the @ and # designs to better match Univers’ classic forms.&#xA;@ and # symbols true to Univers. Discretionary ligatures for tagging and hashtags.</description>
+    </item>
+  </channel>
+</rss>

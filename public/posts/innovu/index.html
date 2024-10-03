@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en-US"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<title>A BI Tool for Self-Insured Co&#39;s - elliott.io</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description"
+    content="Understanding User Workflows in Complex B2B Software Overview ⊕ Themes: Human Computer Interaction, User Research A few designers were hired by a 100 person company. The company was engineering/data driven, and now started to see the cracks in having a UI that was built for internal users that was a 1:1 representation of the underlying data model. The two designers were the first designers to take a look at the UI since the conception of the product. ">
+<link rel="canonical" href="http://localhost:1313/posts/innovu/" />
+
+
+<link rel="icon" href="http://localhost:1313/favicon.ico" />
+
+
+<link rel="apple-touch-icon" href="http://localhost:1313/touch-icon.png" />
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/1.1.0/modern-normalize.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+
+
+
+
+
+
+
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="preload" as="style"
+      href="https://fonts.googleapis.com/css?family=Noto+Serif+SC|Noto+Emoji&display=swap" />
+<link rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Noto+Serif+SC|Noto+Emoji&display=swap"
+      media="print" onload="this.media='all'" />
+<noscript>
+<link rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Noto+Serif+SC&display=swap" />
+</noscript>
+
+
+
+
+
+
+<link rel="stylesheet" href="http://localhost:1313/css/hugo-tufte.min.css">
+
+
+
+<link rel="stylesheet" href="http://localhost:1313/css/hugo-tufte-options.min.css">
+
+<link rel="stylesheet" href="http://localhost:1313/css/hugo-tufte-override.css">
+
+</head>
+<body>
+
+
+<article id="main">
+  <section>
+<h1 class="content-title">A BI Tool for Self-Insured Co&#39;s</h1></section>
+
+  
+
+  <section>
+<div id="outline-container-headline-1" class="outline-2">
+<h2 id="headline-1">
+Understanding User Workflows in Complex B2B Software
+</h2>
+<div id="outline-text-headline-1" class="outline-text-2">
+<div id="outline-container-headline-2" class="outline-3">
+<h3 id="headline-2">
+Overview
+</h3>
+<div id="outline-text-headline-2" class="outline-text-3">
+<p>
+<label for="marginnote-1" class="margin-toggle marginnote-ind">⊕</label>
+<input type="checkbox" id="marginnote-1" class="margin-toggle"/>
+<span class="marginnote">
+<em>Themes:</em> Human Computer Interaction, User Research
+</span>
+
+A few designers were hired by a 100 person company. The company was engineering/data driven, and now started to see the cracks in having a UI that was built for internal users that was a 1:1 representation of the underlying data model. The two designers were the first designers to take a look at the UI since the conception of the product.</p>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-3" class="outline-2">
+<h2 id="headline-3">
+The Current App
+</h2>
+<div id="outline-text-headline-3" class="outline-text-2">
+<p>
+This is a niche product. Most companies outsource healthcare insurance to a healthcare provider. Those that don’t pay cash for claims, but need a way to track claims across entire employee populations. Self-insured companies also constantly seek to provide better health insurance at lower costs, so this data is used to figure out what prescription drugs are costing the most money so cheaper providers can be brought it.</p>
+<p>
+<label for="marginnote-2" class="margin-toggle marginnote-ind">⊕</label>
+<input type="checkbox" id="marginnote-2" class="margin-toggle"/>
+<span class="marginnote">
+Here’s an example screen. You don’t need to know what it does, you just need to know that most screens looked a lot like this.
+</span>
+
+<img src="old-dashboard.png" alt="old-dashboard.png" title="old-dashboard.png" /></p>
+<p>
+It was built for complex queries across multiple petabyte-sized databases that people inside the company built for customers. If you wanted to find out something that should have been easy like how much your company was spending on uncomplicated hospital births, you’d have to select some data from the medical db, clone it, carry it over to the financial part of the app, match user IDs from one to the other and then pull costs out of an infinitely side-scrolling UI. Then click Run in a form like below and keep your fingers crossed that your browser didn’t think the server fell over from the request.</p>
+<p>
+<img src="old-template.png" alt="old-template.png" title="old-template.png" /></p>
+<p>
+As the product developed towards a focus on external clients, more and more layers of abstraction were created to give new users a simpler “Bird’s Eye View” of the data. Every time someone asked a simple question from the data that wasn&#39;t in a simple view, someone behind the scenes would perform db magic and add another pre-configured dashboard to an ever growing list of thousands. If you could guess the name that the developer gave the new dashboard, you were in luck. If you misspelled the dashboard name, or tried PMPM instead of PEPM in the title, then you were out of luck and would call Customer Service to give you the magical incantation.</p>
+<p>
+<img src="old-overview.png" alt="old-overview.png" title="old-overview.png" /></p>
+</div>
+</div>
+<div id="outline-container-headline-4" class="outline-2">
+<h2 id="headline-4">
+Finding the Problem
+</h2>
+<div id="outline-text-headline-4" class="outline-text-2">
+<p>
+To start this project, I did what I like to do with almost all projects, I try to get some sort of design brief. Usually this is a team activity since everyone in the org wants something different from the project, and when I get to the project, no one’s asked everyone what they want from the project, and no one’s typed up all those responses in a nice and tidy design brief for me.</p>
+<p>
+I had my list of talking points and away I went:</p>
+<ol>
+<li>Users and Customers</li>
+<li>Problems</li>
+<li>Solutions Today</li>
+<li>Business Challenge</li>
+<li>Solution Ideas</li>
+<li>Budget</li>
+<li>Adoption Strategy</li>
+<li>User Metrics</li>
+<li>Business Impact</li>
+<li>Anticipated Risks</li>
+</ol>
+<p>
+After a few calls with the higher-ups, it was obvious that this project was starting from ground zero in terms of customer knowledge. The team identified a focus, the <strong>Casual User</strong>, but didn’t know how many there were, their frequency of use, or job titles in their companies. No one knew how this project would impact the business aside from a loose notion that they were behind competitors. And the only other finding was that there was an “extremely low volume” of users who pulled data out of the platform to perform calculations in Excel… the very function that this BI Tool was designed for. </p>
+</div>
+</div>
+<div id="outline-container-headline-5" class="outline-2">
+<h2 id="headline-5">
+Doing the Research
+</h2>
+<div id="outline-text-headline-5" class="outline-text-2">
+<p>
+I won’t bother you with all the details of how the research went down. Since I worked with a UI Designer with zero research experience, I figured I’d go with a super standard Contextual Design style research approach. We worked with a PM who collected a list of participants, we put together a light <a href="contextual design interview template">contextual design interview template</a>, and scheduled dozens of video calls over the next few weeks.</p>
+</div>
+</div>
+<div id="outline-container-headline-6" class="outline-2">
+<h2 id="headline-6">
+A Sample of How All This is Supposed to Work
+</h2>
+<div id="outline-text-headline-6" class="outline-text-2">
+<p>
+Management wasn’t sure about this style of research. We ended up building out a flow to show how a real research insight led all the way to a new design including pixel-perfect mockups. I know I know! <em>Don’t show pixel-perfect mockups!</em> <em>Don’t build screens based on a  single finding!</em> But after showing a bunch of wiz-bang HCI research models and talking about process for weeks, management threatened to shut down the project if they didn’t see something. So we took one user interview and used that to run through an example of how research leads to new designs.</p>
+<p>
+One participant was a broker for health insurance products. He started his own broker business and was pretty tech savvy. We hopped on a call and gave the usual spiel of how we were investigating how real people used the product and wanted to watch him do the actual work he does, explaining to us as he went along.</p>
+<p>
+<label for="marginnote-3" class="margin-toggle marginnote-ind">⊕</label>
+<input type="checkbox" id="marginnote-3" class="margin-toggle"/>
+<span class="marginnote">
+Magical NPI Numbers. <img src="npi.png" alt="">
+</span>
+
+He was currently tasked with finding out what claims were being left on the table by his client. His client was a care provider and they felt like claims were being sent out to other providers even though they could perform them in-house. This was a perfect task for the platform! His client worked under a bunch of names like Something Something Orthopedic and Something Something Medical. You’d think you could just type those in, but he needed a unique ID for each name the company operated under. To make things worse, he didn’t know what that unique ID was called, so he couldn’t even look up his client in the platform. He finally figured out it was called an NPI number.</p>
+<p>
+After he got the NPI numbers, he could go into the platform and search for those to find what claims were performed by his client. He found thousands of claims in the platform, but just needed the unique claim IDs, he didn’t need every instance of the ID, so he exported the whole set and did a little python magic to pull out all the unique claim numbers.</p>
+<p>
+<img src="condensing-ccs-codes.png" alt="condensing-ccs-codes.png" title="condensing-ccs-codes.png" /></p>
+<p>
+From there he went back to the platform and did a search for all those claim numbers.</p>
+<p>
+<img src="find-claims.png" alt="find-claims.png" title="find-claims.png" /></p>
+<p>
+And from there, he could finally filter out the claims that weren’t performed by his client.</p>
+<p>
+To recap, the user process was:</p>
+<ol>
+<li>Find codes that corresponded to the client names</li>
+<li>Search the database for claims associated with those IDs</li>
+<li>Create a list of claim type IDs and remove duplicates</li>
+<li>Search the database for the claim type IDs</li>
+<li>Filter out claims that had the client IDs</li>
+<li>Add it all up and see what money was left on the table from outsourcing claims that could have been done in-house</li>
+</ol>
+<p>We walked through how we went from interview transcript to unsorted findings:</p>
+<p>
+<img src="unsorted-findings.png" alt="unsorted-findings.png" title="unsorted-findings.png" /></p>
+<p>
+To moving those findings into pre-determined models for data flow, sequences of events, and cultural pressures:</p>
+<p>
+<label for="marginnote-4" class="margin-toggle marginnote-ind">⊕</label>
+<input type="checkbox" id="marginnote-4" class="margin-toggle"/>
+<span class="marginnote">
+”I would be fearful if [working in the platform] would convey incompetence, I’d rather use Python”
+</span>
+
+<img src="cultural.png" alt="cultural.png" title="cultural.png" /></p>
+<p>
+Showing how this participant had clients who wanted to see the underlying work, but the participant felt like these workflows were too complex and prone to error and didn’t want to be perceived as incompetent.</p>
+<p>
+After, we talked about how we developed <em>How Might We</em> statements:</p>
+<ul>
+<li><em>Help users skip all the code based middle steps</em></li>
+<li>Turn insights into composable Data Journals</li>
+<li>Move from guess-and-check to embedded muscle memory</li>
+<li>Make easy things discoverable</li>
+</ul>
+<p>And how one HMW statement could turn into wireframes of a new way of doing work. Instead of searching within a field for a piece of data, what if users could start with a piece of data and find all the instances of that bit of data and what fields it was in:</p>
+<p>
+<img src="find-fields.png" alt="find-fields.png" title="find-fields.png" /></p>
+<p>
+And how that could look inside the current design aesthetic.</p>
+<p>
+<img src="pixel-perfect.png" alt="pixel-perfect.png" title="pixel-perfect.png" /></p>
+<p>
+They loved it. And the concept was strong. I haven’t seen many UIs where the data is known but the field is not, but a simple search across all fields and then showing what that data is found in, is at least a good first-pass solution.</p>
+</div>
+</div>
+<div id="outline-container-headline-7" class="outline-2">
+<h2 id="headline-7">
+What We Found
+</h2>
+<div id="outline-text-headline-7" class="outline-text-2">
+<p>
+I won’t bore you with all the <a href="breakdowns">breakdowns</a> or all the <a href="hmws">hmws</a> but you can check them out if you want. We also came up with <a href="Areas of Focus">Areas of Focus</a>, but the real interesting part was when we presented two particular insights.</p>
+<div id="outline-container-headline-8" class="outline-3">
+<h3 id="headline-8">
+Insight 1: Cascading Data Issues
+</h3>
+<div id="outline-text-headline-8" class="outline-text-3">
+<p>
+Say you want to answer something that seems easy… like finding all the claims your client is leaving on the table. You’d first probably want to look at all the claims data. But you can’t. The interface can only show the first 500 rows. Now suppose you find a mistake in the data. February of last year had 1300 claims, March had 1200 claims, and all of the sudden in April you had a whopping 3500 claims. You dig a little deeper and it turns out you’ve got duplicate claims in April. The system must have slurped up some data feed twice. But of course, the UI doesn’t allow any editing of data. So to fix some problems to help users solve easy questions, there were actually a number of UI and db issues that needed to be resolved. </p>
+<p>
+<img src="cascade.png" alt="cascade.png" title="cascade.png" /></p>
+</div>
+</div>
+<div id="outline-container-headline-9" class="outline-3">
+<h3 id="headline-9">
+Insight 2: Extract-Transform-Load
+</h3>
+<div id="outline-text-headline-9" class="outline-text-3">
+<p><label for="marginnote-5" class="margin-toggle marginnote-ind">⊕</label>
+<input type="checkbox" id="marginnote-5" class="margin-toggle"/>
+<span class="marginnote">
+Extract-Transform-Load, or ETL is a pretty common practice. It even has a <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load">Wikipedia Page</a>! I learned way too much about this back in my LegalSifter days.
+</span>
+
+What do people do to fix this? They pull all of the data out of the platform and do everything in spreadsheet software–like any reasonable person would. You <em>Extract</em> the data from the platform, <em>Transform</em> that data in a spreadsheet app, and then you <em>Load</em> that into presentation software to show to the rest of your org. In our research, <em>84% of all participants used some form of Extract-Transform-Load in their regular work</em>. And remember the one finding that came out of the attempt to build a design brief was that this was an “extremely low” occurrence. </p>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-headline-10" class="outline-2">
+<h2 id="headline-10">
+Conclusion
+</h2>
+<div id="outline-text-headline-10" class="outline-text-2">
+<p>
+We presented all this to the CEO and the rest of the management staff. We got a lot of push back. “Never say the data is wrong” and “If this is true, our product isn’t worth what we thought it was” were some memorable quotes. It was shocking considering we had screen recordings showing how months of data were unusable in the system because (and don’t quote me on this), <em>the data was wrong</em>. And then I heard what every designer loves the most.</p>
+<blockquote>
+<p>Elliott, I know you’re gonna hate this… but just make it pretty</p>
+<p>
+– CEO</p>
+</blockquote>
+<p>Research was shut down. We were told to focus on navigation and “look and feel”. We moved a bunch of stuff we saw users constantly navigate to into the home screen.</p>
+<p>
+<img src="new-home.png" alt="new-home.png" title="new-home.png" /></p>
+<p>
+<strong>Levels of the System:</strong></p>
+<p>
+<label for="marginnote-6" class="margin-toggle marginnote-ind">⊕</label>
+<input type="checkbox" id="marginnote-6" class="margin-toggle"/>
+<span class="marginnote">
+<em>Levels of the System Slide</em> <img src="layers.png" alt="">
+</span>
+
+And then we added these chips everywhere… like everywhere. There was a marketing deck talking about the “Level of the System” and we were told we had to include them. You can’t win all the fights, and it was an easy compromise to get worthwhile functionality into the home screen.</p>
+<p>
+<img src="chips.png" alt="chips.png" title="chips.png" /></p>
+<p>
+After that, I rolled off the project. I’m not really a “make it pretty” kind of designer, the junior graphic designers are way better and faster at that than me, and there weren’t going to be any big design changes or user research.</p>
+<p>
+What did I learn? I could easily say this was a simple case of misalignment. I could say that I didn’t bring management along for the ride constantly getting soft approval along the way, but in reality, the CEO met with us about every 6 weeks, and we had a PM constantly relaying progress to the whole leadership team AND a rep from the dev team so they could get wind of big changes before they had to do anything. We even went through sizing exercises with the devs on each design concept. </p>
+<p>
+Here’s what I’ve got:</p>
+<div id="outline-container-headline-11" class="outline-3">
+<h3 id="headline-11">
+Plan for the Inconvenient truths
+</h3>
+<div id="outline-text-headline-11" class="outline-text-3">
+<p>
+<label for="marginnote-7" class="margin-toggle marginnote-ind">⊕</label>
+<input type="checkbox" id="marginnote-7" class="margin-toggle"/>
+<span class="marginnote">
+&ldquo;It is difficult to get a man to understand something when his salary depends on his not understanding it.&rdquo; &ndash; Upton Sinclair
+</span>
+
+Data doesn’t speak for itself. It comes with baggage and history and not understanding how data fits into a larger organizational context will lead to improperly presenting the information to stakeholders. At the start of the project, I should have pushed harder for answers. When asking internal stakeholders about their fears, I didn’t get a response, but from most facilitation research, I should have known that I should have led in the vulnerability of addressing reasons why the project would fail at the start.</p>
+<p>
+In the middle of the project, I could have facilitated more conversations around what the findings meant. I heard statements like “if this is true, our product isn’t worth what we thought it was”. I took that as a meaningful recognition of the lacking value of the product, that would propel the team into conversations around how we could fill in the gaps. But instead, it turned into a view that user research could be dangerous. Usability research is inevitably focused on finding flaws but the presentation of breakdowns in typical HCI models buries the lede. When presenting an individual finding and tying that together with solutions, there’s an ease of tension knowing that the problem is fixable. When presenting large scale insights without product concepts to resolve those issues, it’s kind of like dumping years of work onto the plate of the organization without a roadmap to resolution. In the project roadmap there were plans for visioning sessions to talk through potential product concepts to tackle these inconvenient truths, but those conversations weren’t on anyone’s calendars yet. In the future, I should tightly couple conversations around insights with conversations around solutions so the momentum can carry an organization over rough terrian, and so I’m never dropping a year of work onto anyone’s plate without showing how I’m going to be there all the way through production with a plan in hand.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+  <section><footer class="page-footer">
+<hr />
+
+<div class="previous-post" style="display:inline-block;">
+  
+  <a class="link-reverse" href="http://localhost:1313/posts/design-deck/?ref=footer">« Design Methods Deck</a>
+  
+</div>
+
+<div class="next-post", style="display:inline-block;float:right;">
+  
+</div>
+
+<ul class="page-footer-menu">
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+</ul>
+
+
+
+
+
+</footer>
+</section>
+  <section><nav class="menu">
+    <ul>
+    
+        <li><a href="http://localhost:1313/">Home</a></li>
+    
+        <li><a href="http://localhost:1313/posts/">Posts</a></li>
+    
+        <li><a href="http://localhost:1313/categories/">Categories</a></li>
+    
+        <li><a href="http://localhost:1313/portfolio/">Portfolio</a></li>
+    
+        <li><a href="http://localhost:1313/resume/">Resume</a></li>
+    
+        <li><a href="http://localhost:1313/about/">About</a></li>
+    
+    </ul>
+</nav>
+</section>
+</article>
+
+
+
+
+
+</body>
+
+</html>

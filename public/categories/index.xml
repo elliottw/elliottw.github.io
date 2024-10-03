@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on elliott.io</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on elliott.io</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>B2B</title>
+      <link>http://localhost:1313/categories/b2b/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/b2b/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Human Computer Interaction</title>
+      <link>http://localhost:1313/categories/human-computer-interaction/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/human-computer-interaction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/categories/projects/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/projects/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/categories/research/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visual Design</title>
+      <link>http://localhost:1313/categories/visual-design/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/visual-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Projects #Project</title>
+      <link>http://localhost:1313/categories/projects-%23project/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/projects-%23project/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marketplace</title>
+      <link>http://localhost:1313/categories/marketplace/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/marketplace/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mobile</title>
+      <link>http://localhost:1313/categories/mobile/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/mobile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Financial</title>
+      <link>http://localhost:1313/categories/financial/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/financial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Venture</title>
+      <link>http://localhost:1313/categories/venture/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/venture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Culture</title>
+      <link>http://localhost:1313/categories/culture/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/culture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Organizational Design</title>
+      <link>http://localhost:1313/categories/organizational-design/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/organizational-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Points</title>
+      <link>http://localhost:1313/categories/points/</link>
+      <pubDate>Mon, 09 May 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/points/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Articles</title>
+      <link>http://localhost:1313/categories/articles/</link>
+      <pubDate>Wed, 09 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/articles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Community Development</title>
+      <link>http://localhost:1313/categories/community-development/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/community-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Service Design</title>
+      <link>http://localhost:1313/categories/service-design/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/service-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Healthcare</title>
+      <link>http://localhost:1313/categories/healthcare/</link>
+      <pubDate>Sun, 03 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/healthcare/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

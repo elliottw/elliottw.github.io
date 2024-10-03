@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Healthcare on elliott.io</title>
+    <link>http://localhost:1313/categories/healthcare/</link>
+    <description>Recent content in Healthcare on elliott.io</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 03 Aug 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/healthcare/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scaling Up: Connecting Patient Experience with Strategy</title>
+      <link>http://localhost:1313/posts/upmc/</link>
+      <pubDate>Sun, 03 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/upmc/</guid>
+      <description>How can design thinking and methods help organizations better understand their challenges and transform from the ground up?&#xA;⊕ Themes: Patient Experience, Service and Organization Design, Design Research, Vision and Planning Goals: Our team was engaged to examine patient experience within an out-patient facility and explore opportunities for the facility to become a “model for the future of healthcare delivery.” Research informed visual models, and models aided design concepts that sought to alleviate pain-points in the experience for patients and families.</description>
+    </item>
+  </channel>
+</rss>

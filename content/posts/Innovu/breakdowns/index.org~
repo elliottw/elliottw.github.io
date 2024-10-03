@@ -1,0 +1,81 @@
+---
+page: yes
+menu: no
+---
+
+# Breakdowns
+**Trust in the Data**
+- What data comes from ScriptSourcing versus Highmark?
+- Total amount paid is less than total amount allowed, I think I’m getting a good deal but I don’t really know
+- Double check data
+- Double check data for strange data
+- Why is Lens pulling from 2017
+- Is this file feed from my broker?
+- Never another follow up data check after the first one
+
+**Coding Issues**
+- Member IDs aren’t useful, can’t validate those claims are correct
+- User googled preventative codes and found 4 but there are really 12, so user saw incorrect data
+
+**Data Timing**
+- By the time claims are visible it's too late for interventions
+- Most Critical Data: High Claimants shown only after the fact
+
+**Competing w/ Excel**
+- I would be scrolling blindly looking for when there’s a big cost or chemo
+- Failed to run pivot in lens
+- Found it quicker and easier to edit in Excel
+- Quicker and easier to do task in excel
+- Uses pivot tables in Excel due to the limits inside of Lens
+- Tried to create a metric that produces a 1 for every individual and then could do math
+
+**Insight Workflow**
+- If a client just wanted this one page, it’s easier to delete everything else than to start a new one
+- Would like to clone inside an insight
+- Would like to save as, but can’t
+- I’d have to clone and look for radiation, clone again for chemo
+- User would like to be able to clone an insight while editing the insight
+- Currently user can only save over the current from this view.
+
+**Navigation**
+- Total spend graph: two colors, med/pharma, click in and see breakdown --competitor view
+- Looking for feed files went to my files first
+
+**Managing Cohorts**
+- Get instant benefit with zero effort (captive member) so why try?
+- We have to work together to keep saving (captive members)
+- You don’t do anything with the data (clients)
+- your not taking action or can’t use the data (captive members)
+ 
+**Load Times**
+- Loading Error
+- Long load times means I leave Lens and do something else
+- 3+ minutes of  waiting
+- Nothing loading
+- One load took 1 minute 10 seconds
+- Loading was just so slow, user didn’t know if it was working or not
+ 
+**General Usability**
+- Constantly need todo these things to remember how to do them
+- Did multitask but the insights, dashboards, and filters bogged him down
+- Can’t find Pharmacy in fields, first tried dimensions then tried measures which are actually filters
+- You don’t know what data to look at or how to measure client cost savings
+- User tried to answer this within lens and failed, doesn’t know how to start
+- It’s just not realistic to train employees on lens
+
+**Data Requests**
+- does onsite screenings, file feed from healthceck 360 w blood, a1c3, bp, cholesterol, user wants to qury this data
+- quantify savings, but also level of effort
+- medical model doesn’t show people without claims
+ 
+**Quick Questions**
+- Who has health issues and no claims?
+- Who’s 16, are they covered? I can’t tell in lens
+- try to answer easy questions in lens like 40-45 mamo
+- I can’t filter dashboards by things i’ve created
+
+**Presentation**
+- I have to format the data
+- Would be nice to present straight from lens
+- If reporting could be done in front of the client or prospect it would be used, but using the tool in front of a client makes the user look like they are incompetent. so basically it’s a liability to use lens in front of clients “it would convey incompetence” 
+- Show us how you got the secret sauce? (user can’t show because it would show incompetence)

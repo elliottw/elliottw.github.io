@@ -1,0 +1,16 @@
++++
+date = "2011-05-09"
+categories = ["Points"]
+title = "Design is Strategy"
++++
+[[file:_strategy.jpg]]
+# Design is Strategy
+
+- design[fn:design] :: ...the art or action of conceiving of and producing such a plan or drawing... purpose, planning, or intention that exists or is thought to exist behind an action, fact, or material object...
+- /strategy/[fn:strategy] :: a plan of action or policy designed to achieve a major or overall aim...
+
+
+[fn:design]: [[http://oxforddictionaries.com/view/entry/m_en_us1239718#m_en_us1239718][Oxford Definition]]
+
+[fn:strategy]: [[http://oxforddictionaries.com/view/entry/m_en_us1294847#m_en_us1294847][Oxford Definition]]
+

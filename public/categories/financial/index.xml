@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Financial on elliott.io</title>
+    <link>http://localhost:1313/categories/financial/</link>
+    <description>Recent content in Financial on elliott.io</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/financial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finding Innovation in SBA Loans</title>
+      <link>http://localhost:1313/posts/offset/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/offset/</guid>
+      <description>The bank sent me to investigate potential financial opportunities related to Small Business Loans. I was chosen to lead a team since the bank was interested in innovative products that could spin out of the bank and not efficiency plays. I took along a business lead to help with the financial analysis and industry expertise.&#xA;Understanding the Lifecycle of an SBA Loan I interviewed dozens of stakeholders and for each discrete step I outlined who was involved (circles) and what actions were taken (boxes), starting from the beginning of the process when an SMB was looking for a loan:</description>
+    </item>
+  </channel>
+</rss>

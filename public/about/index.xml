@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on elliott.io</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on elliott.io</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About This Site</title>
+      <link>http://localhost:1313/about/indec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/indec/</guid>
+      <description>I am a Pittsburgh based designer and currently Head of Design at a tiny startup called LikeNow In my free time I volunteer at Edgewood Volunteer Fire Department and advise a few startups.&#xA;I&amp;#39;ve founded companies like LegalSifter that has raised over 6MM to date from institutional investors and grew the company from myself to 25 employees and 50kMRR. I started the first coworking space in Pittsburgh, and grew that to a 5,000sqf space with nearly 100 members and despite all the titles I could have taken and often use, such as founder, CEO, GM, I still call myself a designer because I attribute the success of all of my projects to the level of empathy and advocacy I learned when becoming a designer.</description>
+    </item>
+  </channel>
+</rss>

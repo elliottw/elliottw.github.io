@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Organizational Design on elliott.io</title>
+    <link>http://localhost:1313/categories/organizational-design/</link>
+    <description>Recent content in Organizational Design on elliott.io</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 07 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/organizational-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing a Culture of Innovation</title>
+      <link>http://localhost:1313/posts/pitch-fest/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pitch-fest/</guid>
+      <description>⊕ Themes: Process and Planning, Strategy, Technology, Entrepreneurship Goals: Our team was tasked with developing a venture pipeline of fintech businesses to be grown as arms of the more established company. We were tasked with everything from identifying ideas that had merit, creating plans to build technology, and developing revenue models and go to market strategies. An Innovation Hub Trying to Find its Footing TNB, The National Bank, had made huge strides in technology while also keeping their core products moving forward at a conservative pace.</description>
+    </item>
+    <item>
+      <title>Designing for Collective Accountability</title>
+      <link>http://localhost:1313/posts/2r/</link>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2r/</guid>
+      <description>There is one situation that all designers, at least this designer, loves and fears at the same time–working for another designer.&#xA;⊕ Themes: Internal Service Design, Operations, Project Management, Process and Collaboration Scoping The assignment was to develop a template for design projects. The client was a design firm of 35 people, and would have small teams of 2 to 5 people work projects, but there was no consistent process moving from business lead to contract through completion.</description>
+    </item>
+    <item>
+      <title>Designing a Design Firm</title>
+      <link>http://localhost:1313/posts/pink-design/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pink-design/</guid>
+      <description>As graduate students, this team and I underwent the process of designing a design organization, specifically to work in service design. In 2007, service design was an emerging area of practice that only five firms around the world were explicitly exploring. Our efforts involved competitive analysis and defining our value proposition, all guided by Shelley Evenson, a founding leader in the field of service design. Pink* subsequently worked with two clients: GlaxoSmithKline and Africa Aid.</description>
+    </item>
+    <item>
+      <title>Scaling Up: Connecting Patient Experience with Strategy</title>
+      <link>http://localhost:1313/posts/upmc/</link>
+      <pubDate>Sun, 03 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/upmc/</guid>
+      <description>How can design thinking and methods help organizations better understand their challenges and transform from the ground up?&#xA;⊕ Themes: Patient Experience, Service and Organization Design, Design Research, Vision and Planning Goals: Our team was engaged to examine patient experience within an out-patient facility and explore opportunities for the facility to become a “model for the future of healthcare delivery.” Research informed visual models, and models aided design concepts that sought to alleviate pain-points in the experience for patients and families.</description>
+    </item>
+  </channel>
+</rss>

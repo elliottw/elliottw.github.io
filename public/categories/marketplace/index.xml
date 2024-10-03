@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marketplace on elliott.io</title>
+    <link>http://localhost:1313/categories/marketplace/</link>
+    <description>Recent content in Marketplace on elliott.io</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/marketplace/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing an App with Friends</title>
+      <link>http://localhost:1313/posts/likenow/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/likenow/</guid>
+      <description>One conversation turned into a company&#xA;LikeNow started from a conversation between friends. One friend had the realization that startup &amp;#34;dogfooding&amp;#34; culture had left out lower-income citizens from the majority of startup ideas. The other friend was working on an on-demand company to buy back used electronics with a demographic mainly in lower-income areas. After that conversation, Joey and Elliott decided to join forces, both expanding the concept from not just buying back used electronics, to covering the entire spectrum of the &amp;#34;Craigslist Economy&amp;#34;.</description>
+    </item>
+    <item>
+      <title>Finding Innovation in SBA Loans</title>
+      <link>http://localhost:1313/posts/offset/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/offset/</guid>
+      <description>The bank sent me to investigate potential financial opportunities related to Small Business Loans. I was chosen to lead a team since the bank was interested in innovative products that could spin out of the bank and not efficiency plays. I took along a business lead to help with the financial analysis and industry expertise.&#xA;Understanding the Lifecycle of an SBA Loan I interviewed dozens of stakeholders and for each discrete step I outlined who was involved (circles) and what actions were taken (boxes), starting from the beginning of the process when an SMB was looking for a loan:</description>
+    </item>
+  </channel>
+</rss>

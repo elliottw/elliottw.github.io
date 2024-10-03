@@ -1,0 +1,121 @@
+#+title: Resume
+#+OPTIONS: \n:t
+
+[[#experience][Experience]] | [[#education][Education]] | [[#service][Service]] | [[#talks][Talks]]
+
+* TL;DR
+*MIT*, CogSci. *Peace Corps*, Cape Verde. *CMU*, HCI. *Pink Design*, Service Design. *CatapultPGH*, Coworking space. *LegalSifter*, ML LegalTech Startup. *PNC Fintech Incubator*, Head of Design. *Capital One*,  Wealth Management Sr Design Manager of Strategy.
+
+---------------
+* Experience
+:PROPERTIES:
+:CUSTOM_ID: experience
+:END:
+** Design Consulting  
+*Director, 2022-Present*
+Likenow is a mobile app aimed at bringing economic justice back to on-demand (Uber, Doordash, etc) gig workers, while also enabling many people who are not qualified for any other on-demand apps. The model is simple, allow anyone to join the platform offering whatever skills they possess, while building an application much like Uber that connects those workers with customers in real-time, all for free for the workers.
+
+*Founder.* Moved from back of napkin idea all the way to production. Secured Seed Funding as well as hired the first full time employees for the product.
+
+*Designer.* Developed the app from conception to iOS App Store (currently pending approval). Performed extensive field research participating in the on-demand app ecosystem as a worker, moved from research to wireframes to pixel-perfect mockups as the only full-time designer.
+
+** Capital One - Wealth Management  
+*Senior Design Manager of Strategy - 2021.*  
+Joined Capital One’s Wealth Management Group pre-launch. Managed all design aspects of the Direct to Consumer service launch while introducing [[{{< ref "../posts/service-blueprinting-to-align-an-organization/index.org" >}}][Service Blueprints for alignment]] to the group as a way of unifying the efforts of designers, developers, wealth management associates and regulators. 
+
+In addition to bringing together stakeholders across the group around a single document my team owned, I was responsible for managing a cross-functional team tasked with designing the cultural shift for the group as Wealth Managers moved from a 1:1 service model to a team based model. Unfortunately, at the end of 2021, Capital One decided to terminate the wealth management department, laying off over 300 employees and the project came to an end.
+
+** PNC Bank - Numo  
+*Head of Design, 2018-2020.* Numo is a bank funded fintech incubator. Grew the group’s first design department while simultaneously developing financial product ideas and the process to evaluate them. Quarterly meeting with C-Suite of PNC (6th largest bank nationally) for funding approval for products.
+
+*Founding Director of Numo's Corporate Startup Lab @ CMU.* Strategically invested 1MM in PNC donations annually to research with the potential to  shape the future of the financial industry. Met with C-Suite members of PNC quarterly for feedback and guidance. Acted as primary client for entrepreneurial classes around CMU, evaluating student created startups.
+
+*Venture Process.* [[{{< ref "../posts/Pitch Fest/index.org" >}}][Designed]] and iterated the internal process used to evaluate 100s of product concepts moving from back of napkin ideas to multi-million dollar board approvals. 
+
+*Design Thinking Workshop.* Designed Rhetoric based curriculum as a means to create a communal language and understanding for design company-wide.
+
+*Launched News for Sales Team Application.* Moved from contextual inquires and semi-structured user interviews to managing a small engineering team and testing prototypes in the field. Cleared all regulatory hurdles to launch internally within PNC for the healthcare vertical.
+
+*SBA-backed Loan Marketplace for Consumers.* Worked with industry experts, PNC Financial Institutions Group and Underwriting teams to [[{{< ref "../posts/offset/index.org" >}}][develop a product]] to offer whole loans to consumers. Orchestrated dozens of stakeholders across multiple internal LOBs for PNC CCO, CIO, and CTO approval. 
+
+** LegalSifter  
+*Founder, CEO, Designer PGH PA USA, 2013 - 2017*  
+Founded LegalSifter to tackle the problems of small businesses’ inability to access affordable legal help. Raised $4 Million in venture funding to use a statistical natural language processing (AI) approach to legal aid.
+
+*Founder*  
+Launched an MVP that received over 4,000 contracts organically on day one. Posted on Hacker News with a 25% sign-up rate for the first day on the front page.
+
+*CEO*  
+Raised over 2MM in institutional investments (to date LS has raised over 6MM). Effectively grew the company from 1 to 15 employees. I successfully pivoted the company from consumer to B2B and secured our first enterprise client, [[LegalSifter From Consumer App to B2B|BNYMellon]].
+
+
+*Designer*  
+Semi-structured interviews with 50+ potential users, longitudinal studies, and contextual inquiries guided the prototyping of the first interface. Prototyped a complex app that negotiated the complexity of AI generated imperfect data with novice users. Worked with engineering team to implement designs.
+
+** Catapult PGH   
+*Founder, Service Designer PGH PA USA, 2010 - 2013.* [[{{< ref "../posts/Catapult/index.org" >}}][Started]] the first coworking space in Pittsburgh. Received grants, sited in Ph.D. thesis’ as the first donation based coworking space. Under my management, Catapult grew to nearly 100 members, and a 25% operating margin.
+
+** Pink Design  
+*Founder, Service Designer PGH PA USA, 2008 - 2010*  
+[[{{< ref "../posts/Pink Design/index.org" >}}][Cofounded]] one of the first Service Design consultancies in the country. Worked with large corporate clients such as GSK and McDonald’s and applied modern Service Design methodologies such as Service Blueprints, Personas, and Story-boarding. 
+
+---------------
+* Education
+:PROPERTIES:
+:CUSTOM_ID: education
+:END:
+
+**Carnegie Mellon**  
+*Adjunct Instructor PGA PA USA, 2019 - 2020*  
+Human Computer Interaction Master’s Program
+Simultaneously instructed several student groups working across multiple industries with paying clients while guiding them through UCD research and design processes such as Contextual Inquiry, Cognitive Walkthrough, Ideation, and Rapid Prototyping.
+
+**Carnegie Mellon**  
+*MS Human Computer Interaction 2007-2008*  
+Carried 75% over required course load for the duration of the program finishing with a 4.0 GPA. Lead Designer for Capstone project.
+
+**MIT**  
+*BS Brain and Cognitive Science 2000-2004*  
+[[massachusetts-institute-of-technology | Additional studies]] in computer science, fine arts, and architecture. Student Leader managing 50+ students for a semester long art installation in the main entry. Executive Board Member of the Black Student Union. Organized dorm student cooking group of 30 students. Computer Science internship with Texas Instruments. Taught high school computer science.
+
+---------------
+* Service
+:PROPERTIES:
+:CUSTOM_ID: service
+:END:
+
+*Edgewood Volunteer Fire Department, EMT*.
+Completed coursework to become a nationally acknowledged Emergency Medical Technician. Currently volunteering at Edgewood Fire Department.
+
+*Sprout Fund, Decision Committee Member 2010-2015*.
+Worked with a team to determine community projects to be funded. Evaluated projects based on probability of success along with alignment with Sprout vision and values. Distributed ~1MM over my tenure.
+
+*Coffee Disloyalty Card, Designer 2013*.
+Organized 8 warring coffee shops to increase positivity in the local coffee industry. Created a physical rewards card where customers received a free cup of coffee for visiting multiple non-affiliated coffee shops.
+
+*Philadelphia Public Schools, High School Science Teacher*.
+Taught high school Chemistry, Biology, and Health to over 200 students from 9th to 11th grade. Worked in various schools from arts focused to the Microsoft School of the Future to a school associated with large numbers of homicide and drug related crimes. Pursued Masters in Education at the University of Pennsylvania concurrently.
+
+**Peace Corps**  
+*Cape Verde,Volunteer 2005*    
+Immersive language training in Cape Verdian Creole and Portuguese. Taught basic computer skills to people of Cape Verde.
+---------------
+* Talks
+:PROPERTIES:
+:CUSTOM_ID: talks
+:END:
+
+** CMU HCI 2019
+Service Design graduate class guest lecture on coworking from the lens of design. See my writeup of the project [[{{< ref "../posts/Catapult/index.org" >}}][here]].
+
+** IXDA Pittsburgh 2018
+How business and design have shifted and changed to accommodate the cultural shifts of the last 100 years.
+
+** World IA Day Pittsburgh 2018
+Designing for imperfect computer generated data.  
+[[https://slideslive.com/38905982/machinelearninggenerated-data][Watch the video on SlidesLive.]]
+
+** Alphalab Startup Incubator
+[[{{< ref "../posts/sparket/index.org" >}}][Watch the video]] right here on elliott.io.
+
+

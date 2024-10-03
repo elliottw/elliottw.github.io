@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community Development on elliott.io</title>
+    <link>http://localhost:1313/categories/community-development/</link>
+    <description>Recent content in Community Development on elliott.io</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Jun 2010 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/community-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coffee &#43; Workspace</title>
+      <link>http://localhost:1313/posts/catapult/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/catapult/</guid>
+      <description>Creating a Casual Workspace for Recent Graduates and Independent Workers&#xA;⊕ Themes: Service Design, Community Development Goals: Our team, with the support of the Sprout Fund, sought to improve the local ecosystem of freelancers, small consulting firms, and cafes by creating an alternative casual workspace providing resources lacking in coffee shops, alleviating coffee shops from acting as de facto office spaces, and fostering a community pool of talent in the city.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Human Computer Interaction on elliott.io</title>
+    <link>http://localhost:1313/categories/human-computer-interaction/</link>
+    <description>Recent content in Human Computer Interaction on elliott.io</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/human-computer-interaction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A BI Tool for Self-Insured Co&#39;s</title>
+      <link>http://localhost:1313/posts/innovu/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/innovu/</guid>
+      <description>Understanding User Workflows in Complex B2B Software Overview ⊕ Themes: Human Computer Interaction, User Research A few designers were hired by a 100 person company. The company was engineering/data driven, and now started to see the cracks in having a UI that was built for internal users that was a 1:1 representation of the underlying data model. The two designers were the first designers to take a look at the UI since the conception of the product.</description>
+    </item>
+  </channel>
+</rss>

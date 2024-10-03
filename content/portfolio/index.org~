@@ -1,0 +1,43 @@
+#+title: Portfolio
+
+{{< figure src="hero-whiteboard.jpg" type="full" >}}
+
+* introduction
+
+I call myself an Interaction Designer even though I don't think that's a thing anymore. It's long been supplanted by terms like UI and UX. I learned design in a similar way that I learned to code, on paper. Screens are just one medium to connect people to each other and to larger communities, cultures, and world views. What UI and UX leave behind are the basic arts of design–thoughtfulness, empathy, and a pluralistic view that believes every new opinion gets us closer to a more accurate view of the world. By creating a new crop of designers focused on auto-layouts and color theory, we kind of buried the lede and our products and services started becoming avenues to drive traffic and revenue rather than building block towards a better world.
+
+For my entire career, I've struggled with the notion of a /portfolio/. Yeah, I could show all the whizzbang screens that my teams made by the ends of projects, but that's not bulk of my work, or the hard part of design. Also, most of design isn't visual, it's organizational, cultural, and entrepreneurial.
+
+So instead, here are a set of case studies--mostly text based explanations taking readers through the processes of the projects. Almost no projects in the 15 years of my career have had clean double-diamond or four step approaches. Mostly they flowed with the demands of the larger organizations. Stop here for a presentation, double-down on research, or build now, research later.
+* UPMC
+
+{{< figure src="upmc1.png" type="full" >}}
+
+[[{{< ref "../posts/UPMC/index.org" >}}][UPMC]]
+
+We employed a remapping technique to understand the values of individuals and community ethos: prompted with a set of four image cards per question, users were asked “if healthcare in the future were” one of the four juicers, one of the four magazines, one of the four vacation spots, one of the four cars, “which one would it be and why?” The choices they made were irrelevant to us; what mattered was their justification: “I like the green juicer because it’s personal. It’s one-at-a-time. With the industrial juicer, I would feel like just another orange.”
+{{< figure src="_upmc6.jpg" type="full" >}}
+* catapult
+[[{{< ref "../posts/Catapult/index.org" >}}][Service Design Workspace]]
+
+
+{{< marginnote >}} ![](_ritual-versus-routine.png) {{< /marginnote >}}
+
+In an attempt to bring this independent worker community to life, our first experiment was to do what we did for our initial research. To stage get-togethers with independents at local coffee shops. By turning a habit or routine towards a ritual we thought consistent communal events with likeminded people would develop into a thriving ecosystem of workers. The eventual goal, was that this prototype community would develop enough inertia to launch itself into an economically self-sustaining coworking community space.
+
+* LegalSifter
+[[{{< ref "../posts/LegalSifter/index.org" >}}][LegalSifter]]
+
+
+
+[[file:_scorecard.png]]
+
+We rushed a polished web-app out the door in time for a TechCrunch launch article. The response from freelance designers and developers was 100% positive, but responses from lawyers in the wild were the inverse. During the first day, we had over 4,000 contracts uploaded to our platform, and just as many negative responses from lawyers. So much so that TechCrunch shut down the comments section. To make things worse, Gabe pulled out and so did our corporate law firm retained for our defense.
+
+* Offset
+[[{{< ref "../posts/offset/index.org" >}}][Offset]]
+
+{{< marginnote >}}
+A one-pager for internal stakeholders to understand the value of the project and how future iterations could seep back into the bank increasing efficiency through the loan process
+{{< /marginnote >}}
+[[file:_one-pager.png]]

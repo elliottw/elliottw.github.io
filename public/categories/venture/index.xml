@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Venture on elliott.io</title>
+    <link>http://localhost:1313/categories/venture/</link>
+    <description>Recent content in Venture on elliott.io</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/venture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Finding Innovation in SBA Loans</title>
+      <link>http://localhost:1313/posts/offset/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/offset/</guid>
+      <description>The bank sent me to investigate potential financial opportunities related to Small Business Loans. I was chosen to lead a team since the bank was interested in innovative products that could spin out of the bank and not efficiency plays. I took along a business lead to help with the financial analysis and industry expertise.&#xA;Understanding the Lifecycle of an SBA Loan I interviewed dozens of stakeholders and for each discrete step I outlined who was involved (circles) and what actions were taken (boxes), starting from the beginning of the process when an SMB was looking for a loan:</description>
+    </item>
+    <item>
+      <title>LegalSifter: From Consumer App to B2B</title>
+      <link>http://localhost:1313/posts/legalsifter/</link>
+      <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/legalsifter/</guid>
+      <description>+&#xA;After running a design firm for less than a year, there were several occasions when a project would come in and it didn’t make sense to hire a lawyer. We’d sign contracts with no legal review thinking we’d save a few thousand dollars. But buried deep in a multi-page dense contract, there would be an innocuous phrase.&#xA;⊕ “payable no later than net 30 days to Consultant, upon the completion &amp;hellip; and subject to test and acceptance” The phrase didn’t raise any red flags in my head, but 6 months after the project finished, the final deliverables were waiting for acceptance.</description>
+    </item>
+  </channel>
+</rss>

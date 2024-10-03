@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on elliott.io</title>
+    <link>http://localhost:1313/categories/projects/</link>
+    <description>Recent content in Projects on elliott.io</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 11 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A BI Tool for Self-Insured Co&#39;s</title>
+      <link>http://localhost:1313/posts/innovu/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/innovu/</guid>
+      <description>Understanding User Workflows in Complex B2B Software Overview ⊕ Themes: Human Computer Interaction, User Research A few designers were hired by a 100 person company. The company was engineering/data driven, and now started to see the cracks in having a UI that was built for internal users that was a 1:1 representation of the underlying data model. The two designers were the first designers to take a look at the UI since the conception of the product.</description>
+    </item>
+    <item>
+      <title>Design Methods Deck</title>
+      <link>http://localhost:1313/posts/design-deck/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/design-deck/</guid>
+      <description>Alex Cheek and I developed this card deck over the course of a decade. The cards represent our unique approach to consulting work in business, healthcare, tech, and more. Their roots trace to Aristotle, John Dewey, Richard McKeon, Richard Buchanan, Shelley Evenson, Christopher Alexander, Kenneth Burke, and others — classical models that we have updated for contemporary problems.&#xA;These methods represent the belief that thinking differently through design is something that anybody can participate in; that it’s not a mode of thinking reserved for those with formal design training.</description>
+    </item>
+    <item>
+      <title>Univers for 2020</title>
+      <link>http://localhost:1313/posts/univers-ww/</link>
+      <pubDate>Thu, 02 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/univers-ww/</guid>
+      <description>⊕ by Alexander R. Wilcox Cheek and Elliott Williams A 2020 interpretation of Adrian Frutiger’s Univers based on the open-source Univers U001. To meet the needs of modern internet usage, Wilcox and Williams (WWTF) developed an extensive set of discretionary ligatures for @ and hashtag symbols. Univers WW also updates the @ and # designs to better match Univers’ classic forms.&#xA;@ and # symbols true to Univers. Discretionary ligatures for tagging and hashtags.</description>
+    </item>
+    <item>
+      <title>Designing an App with Friends</title>
+      <link>http://localhost:1313/posts/likenow/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/likenow/</guid>
+      <description>One conversation turned into a company&#xA;LikeNow started from a conversation between friends. One friend had the realization that startup &amp;#34;dogfooding&amp;#34; culture had left out lower-income citizens from the majority of startup ideas. The other friend was working on an on-demand company to buy back used electronics with a demographic mainly in lower-income areas. After that conversation, Joey and Elliott decided to join forces, both expanding the concept from not just buying back used electronics, to covering the entire spectrum of the &amp;#34;Craigslist Economy&amp;#34;.</description>
+    </item>
+    <item>
+      <title>Finding Innovation in SBA Loans</title>
+      <link>http://localhost:1313/posts/offset/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/offset/</guid>
+      <description>The bank sent me to investigate potential financial opportunities related to Small Business Loans. I was chosen to lead a team since the bank was interested in innovative products that could spin out of the bank and not efficiency plays. I took along a business lead to help with the financial analysis and industry expertise.&#xA;Understanding the Lifecycle of an SBA Loan I interviewed dozens of stakeholders and for each discrete step I outlined who was involved (circles) and what actions were taken (boxes), starting from the beginning of the process when an SMB was looking for a loan:</description>
+    </item>
+    <item>
+      <title>Designing a Culture of Innovation</title>
+      <link>http://localhost:1313/posts/pitch-fest/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pitch-fest/</guid>
+      <description>⊕ Themes: Process and Planning, Strategy, Technology, Entrepreneurship Goals: Our team was tasked with developing a venture pipeline of fintech businesses to be grown as arms of the more established company. We were tasked with everything from identifying ideas that had merit, creating plans to build technology, and developing revenue models and go to market strategies. An Innovation Hub Trying to Find its Footing TNB, The National Bank, had made huge strides in technology while also keeping their core products moving forward at a conservative pace.</description>
+    </item>
+    <item>
+      <title>Designing for Collective Accountability</title>
+      <link>http://localhost:1313/posts/2r/</link>
+      <pubDate>Wed, 25 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2r/</guid>
+      <description>There is one situation that all designers, at least this designer, loves and fears at the same time–working for another designer.&#xA;⊕ Themes: Internal Service Design, Operations, Project Management, Process and Collaboration Scoping The assignment was to develop a template for design projects. The client was a design firm of 35 people, and would have small teams of 2 to 5 people work projects, but there was no consistent process moving from business lead to contract through completion.</description>
+    </item>
+    <item>
+      <title>LegalSifter: From Consumer App to B2B</title>
+      <link>http://localhost:1313/posts/legalsifter/</link>
+      <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/legalsifter/</guid>
+      <description>+&#xA;After running a design firm for less than a year, there were several occasions when a project would come in and it didn’t make sense to hire a lawyer. We’d sign contracts with no legal review thinking we’d save a few thousand dollars. But buried deep in a multi-page dense contract, there would be an innocuous phrase.&#xA;⊕ “payable no later than net 30 days to Consultant, upon the completion &amp;hellip; and subject to test and acceptance” The phrase didn’t raise any red flags in my head, but 6 months after the project finished, the final deliverables were waiting for acceptance.</description>
+    </item>
+    <item>
+      <title>Coffee &#43; Workspace</title>
+      <link>http://localhost:1313/posts/catapult/</link>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/catapult/</guid>
+      <description>Creating a Casual Workspace for Recent Graduates and Independent Workers&#xA;⊕ Themes: Service Design, Community Development Goals: Our team, with the support of the Sprout Fund, sought to improve the local ecosystem of freelancers, small consulting firms, and cafes by creating an alternative casual workspace providing resources lacking in coffee shops, alleviating coffee shops from acting as de facto office spaces, and fostering a community pool of talent in the city.</description>
+    </item>
+    <item>
+      <title>Designing a Design Firm</title>
+      <link>http://localhost:1313/posts/pink-design/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pink-design/</guid>
+      <description>As graduate students, this team and I underwent the process of designing a design organization, specifically to work in service design. In 2007, service design was an emerging area of practice that only five firms around the world were explicitly exploring. Our efforts involved competitive analysis and defining our value proposition, all guided by Shelley Evenson, a founding leader in the field of service design. Pink* subsequently worked with two clients: GlaxoSmithKline and Africa Aid.</description>
+    </item>
+    <item>
+      <title>Scaling Up: Connecting Patient Experience with Strategy</title>
+      <link>http://localhost:1313/posts/upmc/</link>
+      <pubDate>Sun, 03 Aug 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/upmc/</guid>
+      <description>How can design thinking and methods help organizations better understand their challenges and transform from the ground up?&#xA;⊕ Themes: Patient Experience, Service and Organization Design, Design Research, Vision and Planning Goals: Our team was engaged to examine patient experience within an out-patient facility and explore opportunities for the facility to become a “model for the future of healthcare delivery.” Research informed visual models, and models aided design concepts that sought to alleviate pain-points in the experience for patients and families.</description>
+    </item>
+  </channel>
+</rss>

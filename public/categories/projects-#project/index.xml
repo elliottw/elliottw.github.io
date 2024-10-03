@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects #Project on elliott.io</title>
+    <link>http://localhost:1313/categories/projects-%23project/</link>
+    <description>Recent content in Projects #Project on elliott.io</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/projects-%23project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Service Blueprinting for Alignment</title>
+      <link>http://localhost:1313/posts/service-blueprinting-to-align-an-organization/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/service-blueprinting-to-align-an-organization/</guid>
+      <description>Capital One&amp;#39;s wealth management team was struggling to launch. There wasn&amp;#39;t an overarching understanding of all the moving parts between calendaring with Wealth Managers, backend infrastructure, and design requirements.&#xA;I worked with my design team to create a single diagram outlining all the steps of the service experience, while tying in the underlying components needed to actually build the thing.&#xA;The diagram illustrated a clear line between what the user would experience and all the underlying parts needed to make that experience a reality:</description>
+    </item>
+  </channel>
+</rss>
