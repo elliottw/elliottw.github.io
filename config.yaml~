@@ -89,7 +89,7 @@ menu:
     - name: Portfolio
       weight: -95
       identifier: portfolio
-      url: /a-book/
+      url: /portfolio/
     - name: Categories
       weight: -99
       identifier: categories
