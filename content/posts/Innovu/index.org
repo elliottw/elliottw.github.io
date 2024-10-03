@@ -1,9 +1,10 @@
 #+title: A BI Tool for Self-Insured Co's
 #+date:   2024-09-11
-#+categories:  projects
-#+categories:  Human Computer Interaction
-#+categories:  research
-#+categories:  b2b
+#+categories:   projects
+#+categories:   Human Computer Interaction
+#+categories:   research
+#+categories:   b2b
+#+description:  Understanding user workflows in a complex Healthcare B2B Platform.
 
 * Understanding User Workflows in Complex B2B Software
 
