@@ -3,6 +3,7 @@
 #+categories: Culture
 #+categories: Organizational Design
 #+title: Designing a Culture of Innovation
+#+description: Our team was tasked with developing a venture pipeline of fintech businesses to be grown as arms of the more established company.
 
 {{< marginnote >}}**Themes:** Process and Planning, Strategy, Technology, Entrepreneurship{{< /marginnote >}}
 **Goals:** Our team was tasked with developing a venture pipeline of fintech businesses to be grown as arms of the more established company. We were tasked with everything from identifying ideas that had merit, creating plans to build technology, and developing revenue models and go to market strategies. 

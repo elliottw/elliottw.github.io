@@ -4,6 +4,8 @@
 #+categories: Service Design
 #+categories: Healthcare
 #+title: Scaling Up: Connecting Patient Experience with Strategy
+#+description: How can design thinking and methods help organizations better understand their challenges and transform from the ground up?
+
 
 *How can design thinking and methods help organizations better understand their challenges and transform from the ground up?*
 

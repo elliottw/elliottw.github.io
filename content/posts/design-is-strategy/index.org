@@ -1,10 +1,9 @@
-+++
-date = "2011-05-09"
-categories = ["Points"]
-title = "Design is Strategy"
-+++
+#+date: 2011-05-09
+#+categories: Points
+#+title: Design is Strategy
+#+description: The definition of design and strategy are pretty similar.
+
 [[file:_strategy.jpg]]
-# Design is Strategy
 
 - design[fn:design] :: ...the art or action of conceiving of and producing such a plan or drawing... purpose, planning, or intention that exists or is thought to exist behind an action, fact, or material object...
 - /strategy/[fn:strategy] :: a plan of action or policy designed to achieve a major or overall aim...

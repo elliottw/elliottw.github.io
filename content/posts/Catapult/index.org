@@ -3,8 +3,9 @@
 #+categories: Service Design
 #+categories: projects
 #+categories: Community Development
+#+description: Designing a casual workspace for indendent workers in the city of Pittsburgh.
 
-***Creating a Casual Workspace for Recent Graduates and Independent Workers***
+*Creating a Casual Workspace for Recent Graduates and Independent Workers*
 
 {{< marginnote >}} **Themes:** Service Design, Community Development {{< /marginnote >}}
 **Goals:**

@@ -1,5 +1,5 @@
 #+title: Sparket
 #+date: 2017-08-02
-
+#+description: Pitch Video at Alphalab Demo Day
 
 {{< vimeo 1015318451 >}}
