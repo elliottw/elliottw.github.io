@@ -19,8 +19,13 @@ This was the project that got me excited about Service Design. Wayfinding, Servi
 
 * [[{{< ref "../posts/Catapult/index.org" >}}][Catapult Coworking Community]]
 
+{{< figure src="catapult-pics.png" type="full" >}}
+
 Catapult PGH was the first coworking space in Pittsburgh--before anyone even knew what coworking meant. It was a product of co-design and a lot of research to understand the needs of independent workers, the City of Pittsburgh, and local small firms in need of talent. This was primarily a Service Design project turned thriving donation-based community space.
 
+{{< marginnote >}}
+A cultural model representing the demands of stakeholders in the ecosystem.
+{{< /marginnote >}}
 [[file:_cultural-model.png]]
 * [[{{< ref "../posts/LegalSifter/index.org" >}}][LegalSifter]]
 

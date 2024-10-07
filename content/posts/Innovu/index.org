@@ -111,7 +111,7 @@ They loved it. And the concept was strong. I haven’t seen many UIs where the d
 
 * What We Found
 
-I won’t bore you with all the [[breakdowns]] or all the [[hmws]] but you can check them out if you want. We also came up with [[Areas of Focus]], but the real interesting part was when we presented two particular insights.
+I won’t bore you with all the [[breakdowns]] or all the [[hmws]] but you can check them out if you want. We also came up with [[areas-of-focus][Areas of Focus]], but the real interesting part was when we presented two particular insights.
 
 ** Insight 1: Cascading Data Issues
 
