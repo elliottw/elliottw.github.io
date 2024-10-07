@@ -1,7 +1,6 @@
-+++
-title =   "Areas of Focus"
-date  =   "2024-09-11"
-+++
+#+title:    Areas of Focus
+#+date:     2024-09-11
+
 * Areas of Focus
 - Answering Quick Questions
 - Cohort Dashboards

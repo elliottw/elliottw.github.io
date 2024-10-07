@@ -132,7 +132,7 @@ Elliott, I know you’re gonna hate this... but just make it pretty
 
 -- CEO
 #+end_quote
-Research was shut down. We were told to focus on navigation and “look and feel”. We moved a bunch of stuff we saw users constantly navigate to into the home screen.
+Research shut down. Our priorities were shifted to focus on navigation and “look and feel”. We moved a bunch of stuff we saw users constantly navigate to into the home screen.
 
 [[file:new-home.png]]
 
