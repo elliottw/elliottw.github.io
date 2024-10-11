@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles, on elliott.io</title>
+    <title>Articles on elliott.io</title>
     <link>http://localhost:1313/tags/articles/</link>
-    <description>Recent content in Articles, on elliott.io</description>
+    <description>Recent content in Articles on elliott.io</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 24 Dec 2010 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/articles/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>http://localhost:1313/posts/richard-buchanan-coins-and-design-keynote-speach/</link>
-      <pubDate>Fri, 24 Dec 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/richard-buchanan-coins-and-design-keynote-speach/</guid>
-      <description>Richard Buchanan was a professor at Carnegie Mellon&amp;#39;s Design School before leaving for the Weatherhead School of Management at Case Western. He&amp;#39;s a personal hero of mine, and one of the few people moving design into spaces that were previously owned by business and management. He recently gave a keynote talk at COINs and you should definitely check it out on livestream [here](http://www.livestream.com/newchannel/popoutplayer?channel=coinsconference&amp;amp;clip=flv_10da17fe-85ac-4b06-b9eb-ace1a97058d7).&#xA;The general gist of the talk informed the audience of the true nature of design, design thinking, and how it&amp;#39;s going to make it&amp;#39;s way into management.</description>
-    </item>
   </channel>
 </rss>

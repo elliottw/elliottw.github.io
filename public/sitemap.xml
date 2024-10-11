@@ -5,9 +5,6 @@
     <loc>http://localhost:1313/posts/innovu/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/innovu/areas-of-focus/</loc>
-    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/b2b/</loc>
     <lastmod>2024-09-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -77,8 +74,23 @@
     <loc>http://localhost:1313/posts/2r/</loc>
     <lastmod>2015-11-25T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/articles/</loc>
+    <lastmod>2015-05-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/solving-community-security-with-more-community/</loc>
+    <lastmod>2015-05-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/legalsifter/</loc>
     <lastmod>2015-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/starting-a-coworking-space-doesnt-have-to-be-hard/</loc>
+    <lastmod>2013-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/supersoft-sublease-agreement/</loc>
+    <lastmod>2012-07-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/degrees-of-freedom/</loc>
+    <lastmod>2011-06-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/design-is-strategy/</loc>
     <lastmod>2011-05-09T00:00:00+00:00</lastmod>
@@ -86,8 +98,17 @@
     <loc>http://localhost:1313/categories/points/</loc>
     <lastmod>2011-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/articles/</loc>
-    <lastmod>2011-02-09T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/designers-are-the-unreasonable-men/</loc>
+    <lastmod>2011-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/articles-%23article/</loc>
+    <lastmod>2011-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/directed-storytelling-designers-are-fakers/</loc>
+    <lastmod>2011-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2011-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/i-dont-care-about-your-new-framework/</loc>
     <lastmod>2011-02-09T00:00:00+00:00</lastmod>
@@ -104,6 +125,9 @@
     <loc>http://localhost:1313/categories/service-design/</loc>
     <lastmod>2010-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/the-dumb-are-mostly-intrigued-by-the-drum/</loc>
+    <lastmod>2010-02-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/pink-design/</loc>
     <lastmod>2009-07-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -112,6 +136,9 @@
   </url><url>
     <loc>http://localhost:1313/posts/rhetorical-chain/</loc>
     <lastmod>2009-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/generalists-job-is-to-have-many-known-unknowns/</loc>
+    <lastmod>2009-03-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/the-four-orders-of-design/</loc>
     <lastmod>2009-02-09T00:00:00+00:00</lastmod>
@@ -129,7 +156,5 @@
     <loc>http://localhost:1313/resume/</loc>
   </url><url>
     <loc>http://localhost:1313/series/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

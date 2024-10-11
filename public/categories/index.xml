@@ -93,17 +93,17 @@
       <description></description>
     </item>
     <item>
+      <title>Articles</title>
+      <link>http://localhost:1313/categories/articles/</link>
+      <pubDate>Sat, 23 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/articles/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Points</title>
       <link>http://localhost:1313/categories/points/</link>
       <pubDate>Mon, 09 May 2011 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/points/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Articles</title>
-      <link>http://localhost:1313/categories/articles/</link>
-      <pubDate>Wed, 09 Feb 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/articles/</guid>
       <description></description>
     </item>
     <item>

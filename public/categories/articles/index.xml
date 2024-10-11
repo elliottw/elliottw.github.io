@@ -6,8 +6,36 @@
     <description>Recent content in Articles on elliott.io</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 09 Feb 2011 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2015 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solving Community Security with More Community</title>
+      <link>http://localhost:1313/posts/solving-community-security-with-more-community/</link>
+      <pubDate>Sat, 23 May 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/solving-community-security-with-more-community/</guid>
+      <description>Problem: More Access = More Problems&#xA;As my coworking space gets larger, the space has been left open more often than I&amp;#39;d like. Some people suggested an alarm system or keyless entry system, some others suggested two membership tiers, a cheaper level without a key to the space, and a more expensive level with a key to the space–this would reduce the number of people with keys, hopefully increasing security.</description>
+    </item>
+    <item>
+      <title>Starting a Coworking Space Doesn&#39;t Have to Be Hard</title>
+      <link>http://localhost:1313/posts/starting-a-coworking-space-doesnt-have-to-be-hard/</link>
+      <pubDate>Wed, 09 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/starting-a-coworking-space-doesnt-have-to-be-hard/</guid>
+      <description>Getting the people I got a grant from a local non-profit that allowed me to open a co-working space for one month. This grant included enough for rent, and that was about it. After one month, I had 12 people signed up and ready to go. After that landlord raised the rent by 50 percent, and after waiting to find a new space, I had 6 members left (it took 4 months to find a new home).</description>
+    </item>
+    <item>
+      <title>Super Soft Sublease Agreement</title>
+      <link>http://localhost:1313/posts/supersoft-sublease-agreement/</link>
+      <pubDate>Mon, 09 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/supersoft-sublease-agreement/</guid>
+      <description>Catapult PGH Coworking Lease Agreement This Catapult PGH Lease Agreement is made between Catapult PGH (also known as &amp;#34;The Organization Taking the Fall if Anything Happens&amp;#34;) and __ (hereinafter &amp;#34;The Person in need of Space&amp;#34;), together referred to as the &amp;#34;Parties&amp;#34;. Whereas Catapult PGH possess a bit of space and am choosing to share it with you, The Person in Need of Space, with the mutual understanding that we are both cool and that you will not be a jerk.</description>
+    </item>
+    <item>
+      <title>Degrees of Freedom</title>
+      <link>http://localhost:1313/posts/degrees-of-freedom/</link>
+      <pubDate>Thu, 09 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/degrees-of-freedom/</guid>
+      <description>I have been working on some more interaction design problems, and it occurred to me that almost all computer applications seem like big multiple choice tests. How do you save a file? Well, you have a set of buttons, and menus, pick the correct answer by clicking, and then the next answer by clicking, and if you get a perfect score, you get to save the file. Sometimes there are more than one right answer to a question, sometimes questions are dependent, but in any case, it got me thinking about a not often talked about aspect of interfaces–degrees of freedom.</description>
+    </item>
     <item>
       <title>I Don&#39;t Care about Your New Framework</title>
       <link>http://localhost:1313/posts/i-dont-care-about-your-new-framework/</link>

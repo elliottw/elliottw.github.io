@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles #Article on elliott.io</title>
+    <link>http://localhost:1313/tags/articles-%23article/</link>
+    <description>Recent content in Articles #Article on elliott.io</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 09 Mar 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/articles-%23article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Directed Storytelling: Designers are Fakers</title>
+      <link>http://localhost:1313/posts/directed-storytelling-designers-are-fakers/</link>
+      <pubDate>Wed, 09 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/directed-storytelling-designers-are-fakers/</guid>
+      <description>Nuts and Bolts First, what is it? Well it&amp;#39;s a research method for designers by Shelley Evenson at Carnegie Mellon. From her article &amp;#34;Directed Storytelling: Interpreting Experience for Design&amp;#34;, it is a method useful for helping teams get to the three to five most significant ideas or themes that are central to an experience. And is useful when time or budget are limited. The nuts and bolts are fairly simple (for an in depth look at how to do it, google that article).</description>
+    </item>
+  </channel>
+</rss>

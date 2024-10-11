@@ -156,7 +156,7 @@ One participant was a broker for health insurance products. He started his own b
 Magical NPI Numbers. <img src="npi.png" alt="">
 </span>
 
-He was currently tasked with finding out what claims were being left on the table by his client. His client was a care provider and they felt like claims were being sent out to other providers even though they could perform them in-house. This was a perfect task for the platform! His client worked under a bunch of names like Something Something Orthopedic and Something Something Medical. You’d think you could just type those in, but he needed a unique ID for each name the company operated under. To make things worse, he didn’t know what that unique ID was called, so he couldn’t even look up his client in the platform. He finally figured out it was called an NPI number.</p>
+He was currently tasked with finding out what claims were being left on the table by his client. His client was a care provider and they felt like claims were being sent out to other providers even though they could perform them in-house. This was a perfect task for the platform! His client worked under a bunch of names like Something-Something Orthopedic and Something-Something Medical. You’d think you could just type those in, but he needed a unique ID for each name the company operated under. To make things worse, he didn’t know what that unique ID was called, so he couldn’t even look up his client in the platform. He finally figured out it was called an NPI number.</p>
 <p>
 After he got the NPI numbers, he could go into the platform and search for those to find what claims were performed by his client. He found thousands of claims in the platform, but just needed the unique claim IDs, he didn’t need every instance of the ID, so he exported the whole set and did a little python magic to pull out all the unique claim numbers.</p>
 <p>
@@ -224,7 +224,7 @@ Insight 1: Cascading Data Issues
 </h3>
 <div id="outline-text-headline-8" class="outline-text-3">
 <p>
-Say you want to answer something that seems easy… like finding all the claims your client is leaving on the table. You’d first probably want to look at all the claims data. But you can’t. The interface can only show the first 500 rows. Now suppose you find a mistake in the data. February of last year had 1300 claims, March had 1200 claims, and all of the sudden in April you had a whopping 3500 claims. You dig a little deeper and it turns out you’ve got duplicate claims in April. The system must have slurped up some data feed twice. But of course, the UI doesn’t allow any editing of data. So to fix some problems to help users solve easy questions, there were actually a number of UI and db issues that needed to be resolved. </p>
+Say you want to answer something that seems easy… like finding all the claims your client is leaving on the table. You’d first probably want to look at all the claims data. But you can’t. The interface can only show the first 500 rows. Now suppose you find a mistake in the data. February of last year had 1300 claims, March had 1200 claims, and all the sudden in April you had a whopping 3500 claims. You dig a little deeper and it turns out you’ve got duplicate claims in April. The system must have slurped up some data feed twice. But of course, the UI doesn’t allow any editing of data. So to fix some problems to help users solve easy questions, there were actually a number of UI and db issues that needed to be resolved. </p>
 <p>
 <img src="cascade.png" alt="cascade.png" title="cascade.png" /></p>
 </div>
@@ -240,7 +240,7 @@ Insight 2: Extract-Transform-Load
 Extract-Transform-Load, or ETL is a pretty common practice. It even has a <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load">Wikipedia Page</a>! I learned way too much about this back in my LegalSifter days.
 </span>
 
-What do people do to fix this? They pull all of the data out of the platform and do everything in spreadsheet software–like any reasonable person would. You <em>Extract</em> the data from the platform, <em>Transform</em> that data in a spreadsheet app, and then you <em>Load</em> that into presentation software to show to the rest of your org. In our research, <em>84% of all participants used some form of Extract-Transform-Load in their regular work</em>. And remember the one finding that came out of the attempt to build a design brief was that this was an “extremely low” occurrence. </p>
+What do people do to fix this? They pull all the data out of the platform and do everything in spreadsheet software–like any reasonable person would. You <em>Extract</em> the data from the platform, <em>Transform</em> that data in a spreadsheet app, and then you <em>Load</em> that into presentation software to show to the rest of your org. In the research, <em>84% of all participants used some form of Extract-Transform-Load in their regular work</em>. And remember the one finding that came out of the attempt to build a design brief was that this was an “extremely low” occurrence. </p>
 </div>
 </div>
 </div>
@@ -257,7 +257,7 @@ We presented all this to the CEO and the rest of the management staff. We got a 
 <p>
 – CEO</p>
 </blockquote>
-<p>Research shut down. Our priorities were shifted to focus on navigation and “look and feel”. We moved a bunch of stuff we saw users constantly navigate to into the home screen.</p>
+<p>Research shut down. Priorities shifted to focus on navigation and “look and feel”. We moved a bunch of stuff we saw users constantly navigate to into the home screen.</p>
 <p>
 <img src="new-home.png" alt="new-home.png" title="new-home.png" /></p>
 <p>
@@ -269,13 +269,13 @@ We presented all this to the CEO and the rest of the management staff. We got a 
 <em>Levels of the System Slide</em> <img src="layers.png" alt="">
 </span>
 
-And then we added these chips everywhere… like everywhere. There was a marketing deck talking about the “Level of the System” and we were told we had to include them. You can’t win all the fights, and it was an easy compromise to get worthwhile functionality into the home screen.</p>
+And then we added these chips everywhere… like everywhere. There was a marketing deck talking about the “Level of the System” and we had to include them. You can’t win all the fights, and it was an easy compromise to get worthwhile functionality into the home screen.</p>
 <p>
 <img src="chips.png" alt="chips.png" title="chips.png" /></p>
 <p>
-After that, I rolled off the project. I’m not really a “make it pretty” kind of designer, the junior graphic designers are way better and faster at that than me, and there weren’t going to be any big design changes or user research.</p>
+After that, I rolled off the project. I’m not a “make it pretty” kind of designer, the junior graphic designers are way better and faster at that than me, and there weren’t going to be any big design changes or user research.</p>
 <p>
-What did I learn? I could easily say this was a simple case of misalignment. I could say that I didn’t bring management along for the ride constantly getting soft approval along the way, but in reality, the CEO met with us about every 6 weeks, and we had a PM constantly relaying progress to the whole leadership team AND a rep from the dev team so they could get wind of big changes before they had to do anything. We even went through sizing exercises with the devs on each design concept. </p>
+What did I learn? I could say this was a simple case of misalignment. I could say that I didn’t bring management along for the ride constantly getting soft approval along the way, but in reality, the CEO met with us about every 6 weeks, and we had a PM constantly relaying progress to the whole leadership team AND a rep from the dev team so they could get wind of big changes before they had to do anything. We even went through sizing exercises with the devs on each design concept. </p>
 <p>
 Here’s what I’ve got:</p>
 <div id="outline-container-headline-11" class="outline-3">
@@ -287,12 +287,12 @@ Plan for the Inconvenient truths
 <label for="marginnote-7" class="margin-toggle marginnote-ind">⊕</label>
 <input type="checkbox" id="marginnote-7" class="margin-toggle"/>
 <span class="marginnote">
-&ldquo;It is difficult to get a man to understand something when his salary depends on his not understanding it.&rdquo; &ndash; Upton Sinclair
+&ldquo;It&rsquo;s difficult to get a man to understand something when his salary depends on his not understanding it.&rdquo; &ndash; Upton Sinclair
 </span>
 
 Data doesn’t speak for itself. It comes with baggage and history and not understanding how data fits into a larger organizational context will lead to improperly presenting the information to stakeholders. At the start of the project, I should have pushed harder for answers. When asking internal stakeholders about their fears, I didn’t get a response, but from most facilitation research, I should have known that I should have led in the vulnerability of addressing reasons why the project would fail at the start.</p>
 <p>
-In the middle of the project, I could have facilitated more conversations around what the findings meant. I heard statements like “if this is true, our product isn’t worth what we thought it was”. I took that as a meaningful recognition of the lacking value of the product, that would propel the team into conversations around how we could fill in the gaps. But instead, it turned into a view that user research could be dangerous. Usability research is inevitably focused on finding flaws but the presentation of breakdowns in typical HCI models buries the lede. When presenting an individual finding and tying that together with solutions, there’s an ease of tension knowing that the problem is fixable. When presenting large scale insights without product concepts to resolve those issues, it’s kind of like dumping years of work onto the plate of the organization without a roadmap to resolution. In the project roadmap there were plans for visioning sessions to talk through potential product concepts to tackle these inconvenient truths, but those conversations weren’t on anyone’s calendars yet. In the future, I should tightly couple conversations around insights with conversations around solutions so the momentum can carry an organization over rough terrian, and so I’m never dropping a year of work onto anyone’s plate without showing how I’m going to be there all the way through production with a plan in hand.</p>
+In the middle of the project, I could have facilitated more conversations around what the findings meant. I heard statements like “if this is true, our product isn’t worth what we thought it was”. I took that as a meaningful recognition of the lacking value of the product, that would propel the team into conversations around how we could fill in the gaps. But instead, it turned into a view that user research could be dangerous. Usability research is inevitably focused on finding flaws but the presentation of breakdowns in typical HCI models buries the lede. When presenting an individual finding and tying that together with solutions, there’s an ease of tension knowing that the problem is fixable. When presenting large scale insights without product concepts to resolve those issues, it’s kind of like dumping years of work onto the plate of the organization without a roadmap to resolution. In the project roadmap there were plans for visioning sessions to talk through potential product concepts to tackle these inconvenient truths, but those conversations weren’t on anyone’s calendars yet. In the future, I should couple conversations around insights with conversations around solutions so the momentum can carry an organization over rough terrian, and so I’m never dropping a year of work onto anyone’s plate without showing how I’m going to be there all the way through production with a plan in hand.</p>
 </div>
 </div>
 </div>
@@ -303,7 +303,7 @@ In the middle of the project, I could have facilitated more conversations around
 
 <div class="previous-post" style="display:inline-block;">
   
-  <a class="link-reverse" href="http://localhost:1313/posts/innovu/areas-of-focus/?ref=footer">« Areas of Focus</a>
+  <a class="link-reverse" href="http://localhost:1313/posts/design-deck/?ref=footer">« Design Methods Deck</a>
   
 </div>
 
