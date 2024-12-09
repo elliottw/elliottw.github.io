@@ -4,9 +4,7 @@
 
 * Introduction
 
-I call myself an Interaction Designer even though I don't think that's a thing anymore. It's long been supplanted by terms like UI and UX and Product. I learned design in a similar way that I learned to code, on paper. I learned that screens are just one medium to connect people to each other and to larger communities, cultures, and world views. What UI and UX leave behind are the basic arts of design–thoughtfulness, empathy, and a pluralistic view that believes every new opinion gets us closer to a more accurate view of the world and better /systems/ to facilitate that new world.
-
-Most of the work I do isn't visual, [[{{< ref "../posts/The Four Orders of Design/index.org" >}}][it's organizational, cultural, and entrepreneurial]]. So instead of a bunch of whizzbang screens, here are a set of case studies--mostly text based stories taking readers through the processes of the projects. Almost no projects in the 15 years of my career have had clean double-diamond or four step approaches. Mostly they flowed with the demands of the larger organizations. Stop here for a presentation, double-down on research, or build now, research later.
+Most of the work I do isn't fully visual, [[{{< ref "../posts/The Four Orders of Design/index.org" >}}][it's organizational, cultural, and entrepreneurial]]. So instead of a bunch of whizzbang screens, here are a set of case studies--mostly text based stories taking readers through the processes of the projects. Almost no projects in the 15 years of my career have had clean double-diamond or four step approaches. Mostly they flowed with the demands of the larger organizations. Stop here for a presentation, double-down on research, or build now, research later.
 * [[{{< ref "../posts/UPMC/index.org" >}}][UPMC]]
 
 {{< figure src="upmc1.png" type="full" >}}
