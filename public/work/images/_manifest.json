@@ -1,0 +1,289 @@
+{
+  "catapult": [
+    {
+      "alt": "_londoncoffeehouse.jpg",
+      "file": "catapult-000-londoncoffeehouse-jpg-ca5c33.jpeg",
+      "size": 113271
+    },
+    {
+      "alt": "_cultural-model.png",
+      "file": "catapult-001-cultural-model-png-6056f7.png",
+      "size": 320847
+    },
+    {
+      "alt": "",
+      "file": "catapult-002-img-a0e122.jpeg",
+      "size": 4812835
+    },
+    {
+      "alt": "",
+      "file": "catapult-003-img-dd026b.png",
+      "size": 27192
+    },
+    {
+      "alt": "Image",
+      "file": "catapult-004-image-50f82e.png",
+      "size": 97518
+    },
+    {
+      "alt": "Image",
+      "file": "catapult-005-image-8af2e9.png",
+      "size": 118547
+    },
+    {
+      "alt": "",
+      "file": "catapult-006-img-a962e7.png",
+      "size": 27640
+    },
+    {
+      "alt": "Image",
+      "file": "catapult-007-image-40f2a3.png",
+      "size": 108747
+    },
+    {
+      "alt": "Image",
+      "file": "catapult-008-image-505a78.png",
+      "size": 511467
+    }
+  ],
+  "pitchfest": [
+    {
+      "alt": "_whiteboard.jpeg",
+      "file": "pitchfest-000-whiteboard-jpeg-ee1100.jpeg",
+      "size": 609995
+    },
+    {
+      "alt": "",
+      "file": "pitchfest-001-img-bd7b65.png",
+      "size": 64279
+    },
+    {
+      "alt": "startup-pitch.jpg",
+      "file": "pitchfest-002-startup-pitch-jpg-c46dd2.jpeg",
+      "size": 1490817
+    }
+  ],
+  "likenow": [
+    {
+      "alt": "_likenow-hero.png",
+      "file": "likenow-000-likenow-hero-png-adb3b2.png",
+      "size": 69431
+    },
+    {
+      "alt": "_likenow1.png",
+      "file": "likenow-001-likenow1-png-e7a85c.png",
+      "size": 1906090
+    },
+    {
+      "alt": "_likenow2.png",
+      "file": "likenow-002-likenow2-png-566173.png",
+      "size": 1360944
+    },
+    {
+      "alt": "_likenow3.png",
+      "file": "likenow-003-likenow3-png-8315d3.png",
+      "size": 1612074
+    },
+    {
+      "alt": "_likenow4.png",
+      "file": "likenow-004-likenow4-png-e7339e.png",
+      "size": 1163444
+    },
+    {
+      "alt": "_likenow5.png",
+      "file": "likenow-005-likenow5-png-07e071.png",
+      "size": 568608
+    },
+    {
+      "alt": "_likenow6.png",
+      "file": "likenow-006-likenow6-png-031f97.png",
+      "size": 2739812
+    }
+  ],
+  "offset": [
+    {
+      "alt": "_offset-sequence-1.png",
+      "file": "offset-000-offset-sequence-1-png-feec0e.png",
+      "size": 117666
+    },
+    {
+      "alt": "_offset-sequence-2.png",
+      "file": "offset-001-offset-sequence-2-png-391999.png",
+      "size": 141257
+    },
+    {
+      "alt": "_offset-sequence-3.png",
+      "file": "offset-002-offset-sequence-3-png-18fb51.png",
+      "size": 113849
+    },
+    {
+      "alt": "Image",
+      "file": "offset-003-image-70611a.png",
+      "size": 68904
+    },
+    {
+      "alt": "Image",
+      "file": "offset-004-image-4e7e2c.png",
+      "size": 603367
+    },
+    {
+      "alt": "_bank-return.png",
+      "file": "offset-005-bank-return-png-36495b.png",
+      "size": 477620
+    },
+    {
+      "alt": "_one-pager.png",
+      "file": "offset-006-one-pager-png-f96dba.png",
+      "size": 651638
+    },
+    {
+      "alt": "_fig.png",
+      "file": "offset-007-fig-png-9835fa.png",
+      "size": 458508
+    },
+    {
+      "alt": "_target-risk-return-profile.png",
+      "file": "offset-008-target-risk-return-profile-png-873582.png",
+      "size": 186945
+    },
+    {
+      "alt": "_stackfolio.png",
+      "file": "offset-009-stackfolio-png-84b219.png",
+      "size": 105417
+    },
+    {
+      "alt": "_offset-loan-list.png",
+      "file": "offset-010-offset-loan-list-png-465d17.png",
+      "size": 718040
+    },
+    {
+      "alt": "_offset-single-investment-page.png",
+      "file": "offset-011-offset-single-investment-page-png-026ac1.png",
+      "size": 777530
+    }
+  ],
+  "legalsifter": [
+    {
+      "alt": "_contract-grid-view.jpg",
+      "file": "legalsifter-000-contract-grid-view-jpg-f148d3.jpeg",
+      "size": 2360393
+    },
+    {
+      "alt": "_wireframe.jpg",
+      "file": "legalsifter-001-wireframe-jpg-059cea.jpeg",
+      "size": 537957
+    },
+    {
+      "alt": "_scorecard.png",
+      "file": "legalsifter-002-scorecard-png-09b270.png",
+      "size": 533563
+    },
+    {
+      "alt": "_techcruch-feedback.png",
+      "file": "legalsifter-003-techcruch-feedback-png-dd46d0.png",
+      "size": 809530
+    },
+    {
+      "alt": "_pune-screenshot-2.png",
+      "file": "legalsifter-004-pune-screenshot-2-png-3cde70.png",
+      "size": 717065
+    },
+    {
+      "alt": "_pune-screenshot-3.png",
+      "file": "legalsifter-005-pune-screenshot-3-png-b00085.png",
+      "size": 535502
+    },
+    {
+      "alt": "_pune-screenshot-4.png",
+      "file": "legalsifter-006-pune-screenshot-4-png-abbeab.png",
+      "size": 600781
+    },
+    {
+      "alt": "_layout.png",
+      "file": "legalsifter-007-layout-png-172651.png",
+      "size": 73550
+    },
+    {
+      "alt": "_productivity-calculator.png",
+      "file": "legalsifter-008-productivity-calculator-png-4fc844.png",
+      "size": 676053
+    },
+    {
+      "alt": "_working-prototype.png",
+      "file": "legalsifter-009-working-prototype-png-ade682.png",
+      "size": 1257097
+    }
+  ],
+  "upmc": [
+    {
+      "alt": "_upmc4a.jpg",
+      "file": "upmc-000-upmc4a-jpg-51085b.jpeg",
+      "size": 1586283
+    },
+    {
+      "alt": "_upmc17.jpg",
+      "file": "upmc-001-upmc17-jpg-bb9408.jpeg",
+      "size": 1531251
+    },
+    {
+      "alt": "_upmc15.jpg",
+      "file": "upmc-002-upmc15-jpg-347c93.jpeg",
+      "size": 1240688
+    },
+    {
+      "alt": "Image",
+      "file": "upmc-003-image-ae18b5.png",
+      "size": 384504
+    },
+    {
+      "alt": "_upmc8.png",
+      "file": "upmc-004-upmc8-png-baa878.png",
+      "size": 156917
+    },
+    {
+      "alt": "_upmc9.png",
+      "file": "upmc-005-upmc9-png-4f1599.png",
+      "size": 40183
+    },
+    {
+      "alt": "_upmc6.jpg",
+      "file": "upmc-006-upmc6-jpg-7fbb31.jpeg",
+      "size": 247885
+    },
+    {
+      "alt": "_triangle.png",
+      "file": "upmc-007-triangle-png-53b8db.png",
+      "size": 35501
+    },
+    {
+      "alt": "Image",
+      "file": "upmc-008-image-7b4211.png",
+      "size": 242280
+    },
+    {
+      "alt": "_upmc12.png",
+      "file": "upmc-009-upmc12-png-61c2d3.png",
+      "size": 135325
+    },
+    {
+      "alt": "_upmc10.png",
+      "file": "upmc-010-upmc10-png-b07652.png",
+      "size": 192861
+    },
+    {
+      "alt": "_upmc11.png",
+      "file": "upmc-011-upmc11-png-1c971a.png",
+      "size": 426154
+    },
+    {
+      "alt": "_upmc14.png",
+      "file": "upmc-012-upmc14-png-2084f4.png",
+      "size": 496014
+    },
+    {
+      "alt": "_upmc13.png",
+      "file": "upmc-013-upmc13-png-6c92e9.png",
+      "size": 288177
+    }
+  ]
+}
