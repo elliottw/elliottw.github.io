@@ -55,11 +55,11 @@ So you know what I'm talking about, here are some "ethnographic observation fram
 
 **Doblin Group AEIOU**
 
-- Environments
-- Users
 - Activities
-- Objects
+- Environments
 - Interactions
+- Objects
+- Users
 
 **A(x4)**
 
